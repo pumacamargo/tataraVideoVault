@@ -1,6 +1,7 @@
 # General
 - **Concept:** Approved
-- **Direccion-Arte:** Review
+- **Direccion-Arte-Texto:** Approved
+- **Direccion-Arte-Imagenes:** Approved
 - **Script:** Ready
 - **Image Prompts:** Ready
 - **Video Prompts:** Ready

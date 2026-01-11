@@ -1,17 +1,19 @@
-# Dirección de Arte - Pomeranian tries to be a Police
+﻿# Dirección de Arte - Pomeranian tries to be a Police
 
 ## 🎭 Personajes
 
 ### Max - El Pomerania
 
 **Referencia Principal:**
-- **Con Uniforme Policía:** ![Max Police](/media/_youtube-example-project/art/characters/pomerania-police.jpg)
+- **Con Uniforme Policía:** ![Max Police](file:///P:/tataraVideo/media/_youtube-example-project/art/characters/pomerania-police.jpg)
+  - URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-31.jpeg`
   - Uniforma azul oscuro profesional
   - Placa dorada
   - Gorro de policía
   - Colores: #0a1428 (azul), #d4af37 (dorado)
 
-- **Con Pijama:** ![Max Pajamas](/media/_youtube-example-project/art/characters/pomerania-pajamas.jpg)
+- **Con Pijama:** ![Max Pajamas](file:///P:/tataraVideo/media/_youtube-example-project/art/characters/pomerania-pajamas.jpg)
+  - URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-26.png`
   - Pijama rosa suave
   - Adorable y relajado
   - Orejas con moñas rosadas
@@ -30,40 +32,34 @@
 Basadas en el estilo de Max (adorable pero épico):
 
 ### 1. Dormitorio
+![Dormitorio](file:///P:/tataraVideo/media/_youtube-example-project/art/locations/dormitorio.jpeg)
+- URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-18-50.jpeg`
 - Cama pequeña, acogedora
 - Iluminación cálida
 - Almohada esponjosa
 - Colores: Tonos cálidos, beige, blanco
 
 ### 2. Cocina
+![Cocina](file:///P:/tataraVideo/media/_youtube-example-project/art/locations/cocina.jpeg)
+- URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-35.jpeg`
 - Escala reducida (para tamaño de Max)
 - Moderna y limpia
 - Platos y comida de perro
 - Iluminación natural
 
 ### 3. Estación de Policía - Exterior
+![Estación Exterior](file:///P:/tataraVideo/media/_youtube-example-project/art/locations/estacion-exterior.jpeg)
 - Edificio grande e imponente
 - Bandera, escaleras
 - Contraste de escala (Max pequeño vs edificio grande)
 - Iluminación profesional
 
 ### 4. Estación de Policía - Interior
+![Estación Interior](file:///P:/tataraVideo/media/_youtube-example-project/art/locations/estacion-interior.jpeg)
 - Escritorios, sillas
 - Iluminación fluorescente
 - Profesional pero acogedor
 - Colores: Azules, grises, tonos institucionales
-
-### 5. Calle / Ciudad
-- Entorno urbano
-- Árboles, aceras
-- Bien iluminada
-- Escala: Max pequeño en mundo grande
-
-### 6. Baño
-- Bañera acogedora
-- Vapor, agua tibia
-- Iluminación suave
-- Colores: Blancos, azules suaves
 
 ---
 

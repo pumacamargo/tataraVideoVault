@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3aeeebaab1aa262a",
+        "id": "b37602116a36aac4",
         "type": "tabs",
         "children": [
           {
-            "id": "b669db3088d6e9e0",
+            "id": "8260ddf633609e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,8 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3792bb81bdebe6e",
+  "active": "8260ddf633609e50",
   "lastOpenFiles": [
+    "00_projects/_youtube-example-project/08_ShotImages.md",
+    "00_projects/_youtube-example-project/04_Script.md",
+    "00_projects/_youtube-example-project/03_Shot-ideas.md",
+    "00_projects/_youtube-example-project/05_Prompts.md",
+    "00_projects/_youtube-example-project/09_ShotVideos.md",
+    "00_projects/_youtube-example-project/07_Youtube.md",
+    "00_projects/_youtube-example-project/06_Music.md",
+    "00_projects/_youtube-example-project/00_Status.md",
+    "00_projects/_youtube-example-project/01_Concept.md",
+    "00_projects/_youtube-example-project/02_Direccion-Arte.md",
+    "START HERE.md",
     "z_guides",
     "projects/_youtube-example-project/00_Status.md",
     "projects/_youtube-example-project/01_Concept.md",
@@ -198,7 +209,6 @@
     "templates/03-Shot.md",
     "templates/01-Script.md",
     "templates/02-Direccion-Arte.md",
-    "START HERE.md",
     "projects/NuevoProyecto/Script.md",
     "projects/NuevoProyecto/Direccion-Arte.md",
     "projects/NuevoProyecto",
