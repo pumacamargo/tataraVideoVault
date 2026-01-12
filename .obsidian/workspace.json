@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "00_projects/_youtube-example-project/09_ShotVideos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "START HERE"
+              "title": "09_ShotVideos"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "d38f07da0f38d615",
   "lastOpenFiles": [
+    "START HERE.md",
     "00_projects/_youtube-example-project/metadata/central_references.md",
     "00_projects/_youtube-example-project/09_ShotVideos.md",
     "00_projects/_youtube-example-project/08_ShotImages.md",
@@ -194,7 +195,6 @@
     "01_guides/Storytelling.md",
     "01_guides/Commercials.md",
     "01_guides/Cinematography.md",
-    "START HERE.md",
     "02_templates/04-Prompt.md",
     "02_templates/01-Script.md",
     "02_templates/05-Feedback.md",

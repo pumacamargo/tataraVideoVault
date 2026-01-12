@@ -10,26 +10,30 @@ Detailed technical information for all videos generated for the "Pomeranian trie
 
 ### Shot-01: First Frame - Sleeping Peacefully
 
-**Version Status: ⏳ Pending Generation**
+**Version 1.0 (Current - Completed ✅)**
 
-**Images Required:**
+**Images Used:**
 - **Image Start (PHASE 1):** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-23-58.jpeg` ✅ Approved
 - **Image End (PHASE 2):** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_03-47-28.jpeg` ✅ Approved
 
-**Video Parameters:**
+**Video Technical Information:**
+- **FTP URL:** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_09-32-21.mp4`
+- **Generation Timestamp:** `2026-01-12_09-32-21`
 - **Model:** `bytedance/v1-lite-image-to-video` (Seedance V1)
-- **Resolution:** 720p
+- **Resolution:** 480p
 - **Duration:** 5 seconds
 - **FPS:** 24
 - **Aspect Ratio:** 16:9
 - **Camera:** Fixed (no movement)
 - **Webhook:** `/webhook/tataraVideo_seedance_genVideo` (Production)
+- **Generation Time:** 55 seconds
+- **Status:** ✅ Completed
 
 **Description:** Smooth transition from Max sleeping to waking up, with subtle head movement
 
 **Prompt Used:** See `05_Prompts.md` > ACT 1 > Shot-01 > Video
 
-**Notes:** Ready to generate when approved. Both images are approved and ready for video generation
+**Notes:** Generated successfully on first attempt. Soft cinematic transition with adorable puppy waking up animation
 
 ---
 
@@ -98,7 +102,7 @@ Detailed technical information for all videos generated for the "Pomeranian trie
 
 **Standard for All Videos:**
 - **Model:** `bytedance/v1-lite-image-to-video`
-- **Resolution:** 720p
+- **Resolution:** 480p
 - **Duration:** 5 seconds
 - **FPS:** 24
 - **Aspect Ratio:** 16:9

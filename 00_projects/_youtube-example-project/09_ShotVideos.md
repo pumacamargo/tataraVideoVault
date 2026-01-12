@@ -10,9 +10,16 @@ See technical parameters in: `00_Settings-Status.md`
 
 **Description:** Smooth transition from Max sleeping to waking up, with subtle head movement
 
-**Video:** ⏳ Pending
+**Video:**
 
-**Status:** Waiting
+<video controls width="800" height="600">
+  <source src="file:///P:/tataraVideo/media/_youtube-example-project/shots/shot-01/shot-01-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Status:** ✅ Completed
+
+**Technical Details:** See `metadata/videos_metadata.md` for FTP URLs and generation parameters
 
 ---
 

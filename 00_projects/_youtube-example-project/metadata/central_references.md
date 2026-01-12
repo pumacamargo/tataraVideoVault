@@ -182,7 +182,13 @@ Every URL is defined ONCE here. All other files use reference tags `[TAG-NAME]` 
 
 ### [SHOT-01-VIDEO-URL]
 - **Definition:** Video transition for Shot-01 (sleeping to waking)
-- **Status:** ⏳ Pending Generation
+- **FTP URL:** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_09-32-21.mp4`
+- **Generation Timestamp:** `2026-01-12_09-32-21`
+- **Status:** ✅ Completed, Version 1.0
+- **Model:** `bytedance/v1-lite-image-to-video` (Seedance V1)
+- **Resolution:** 480p
+- **Duration:** 5 seconds
+- **Generation Time:** 55 seconds
 - **Phase 1 Reference:** [SHOT-01-PHASE1-URL]
 - **Phase 2 Reference:** [SHOT-01-PHASE2-URL]
 - **Used In:**

@@ -10,7 +10,7 @@
 | **Number of Shots** | 24 shots |
 | **Duration per Shot** | 5 seconds |
 | **Image Resolution** | 1920x1080 (Full HD) |
-| **Video Resolution** | 720p |
+| **Video Resolution** | 480p |
 | **Aspect Ratio** | 16:9 |
 | **FPS** | 24 |
 | **Image Format** | JPEG |
@@ -25,7 +25,7 @@
 | **Images Output Format** | JPEG |
 | **Image Size** | 16:9 |
 | **Video Duration** | 5 seconds |
-| **Generated Video Resolution** | 720p |
+| **Generated Video Resolution** | 480p |
 | **Camera Fixed** | true |
 
 ---
