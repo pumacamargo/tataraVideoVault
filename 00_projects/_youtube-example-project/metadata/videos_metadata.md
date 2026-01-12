@@ -1,117 +1,121 @@
 # Metadata - Shot Videos
 
-Información técnica detallada de todos los videos generados para el proyecto "Pomeranian tries to be a Police".
+Detailed technical information for all videos generated for the "Pomeranian tries to be a Police" project.
+
+**Reference System:** This file uses tags like `[SHOT-01-PHASE1-URL]` and `[SHOT-01-VIDEO-URL]` that are defined in `metadata/central_references.md`. See that file for URL definitions and cross-references.
 
 ---
 
-## ACTO 1 - DESPERTAR
+## ACT 1 - AWAKENING
 
-### Shot-01: First Frame - Durmiendo Peacefully
+### Shot-01: First Frame - Sleeping Peacefully
 
-**Estado:** ⏳ Pendiente
+**Version Status: ⏳ Pending Generation**
 
-**Información Técnica:**
-- **Modelo:** `bytedance/v1-lite-image-to-video` (Seedance V1)
-- **Resolución:** 720p
-- **Duración:** 5 segundos
+**Images Required:**
+- **Image Start (PHASE 1):** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-23-58.jpeg` ✅ Approved
+- **Image End (PHASE 2):** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_03-47-28.jpeg` ✅ Approved
+
+**Video Parameters:**
+- **Model:** `bytedance/v1-lite-image-to-video` (Seedance V1)
+- **Resolution:** 720p
+- **Duration:** 5 seconds
 - **FPS:** 24
 - **Aspect Ratio:** 16:9
-- **Cámara:** Fixed (sin movimiento)
+- **Camera:** Fixed (no movement)
 - **Webhook:** `/webhook/tataraVideo_seedance_genVideo` (Production)
 
-**Imágenes Utilizadas:**
-- **Image Start (FASE 1):** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-23-58.jpeg`
-- **Image End (FASE 2):** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_03-47-28.jpeg`
+**Description:** Smooth transition from Max sleeping to waking up, with subtle head movement
 
-**Descripción:** Transición suave de Max durmiendo a despertándose, con movimiento sutil de cabeza
+**Prompt Used:** See `05_Prompts.md` > ACT 1 > Shot-01 > Video
 
-**Prompt Usado:** Vea `05_Prompts.md` > ACTO 1 > Shot-01 > Video
+**Notes:** Ready to generate when approved. Both images are approved and ready for video generation
 
 ---
 
-### Shot-02: Estiramiento y Bostezar
+### Shot-02: Stretching and Yawning
 
-**Estado:** ⏳ Pendiente
+**Status:** ⏳ Pending
 
-**Descripción:** Adorable white Pomerania puppy wakes up in cozy bed, big stretching motion
+**Description:** Adorable white Pomeranian puppy wakes up in cozy bed, big stretching motion
 
-**Parámetros:** Estándar (ver sección de Parámetros Globales)
-
----
-
-### Shot-03: Aseo y Grooming
-
-**Estado:** ⏳ Pendiente
-
-**Descripción:** Small white Pomerania puppy sitting in front of bedroom mirror, grooming itself
-
-**Parámetros:** Estándar (ver sección de Parámetros Globales)
+**Parameters:** Standard (see Global Parameters section)
 
 ---
 
-### Shot-04: Transición a Cocina
+### Shot-03: Grooming and Cleaning
 
-**Estado:** ⏳ Pendiente
+**Status:** ⏳ Pending
 
-**Descripción:** Small white Pomerania puppy transitions from bedroom mirror to kitchen
+**Description:** Small white Pomeranian puppy sitting in front of bedroom mirror, grooming itself
 
-**Parámetros:** Estándar (ver sección de Parámetros Globales)
-
----
-
-### Shot-05: Desayuno
-
-**Estado:** ⏳ Pendiente
-
-**Descripción:** Tiny white Pomerania puppy eating from a food bowl in modern minimalist kitchen
-
-**Parámetros:** Estándar (ver sección de Parámetros Globales)
+**Parameters:** Standard (see Global Parameters section)
 
 ---
 
-### Shot-06: Decisión - Transformación Épica
+### Shot-04: Transition to Kitchen
 
-**Estado:** ⏳ Pendiente
+**Status:** ⏳ Pending
 
-**Descripción:** Small white fluffy Pomerania puppy stands on hind legs, transformed demeanor
+**Description:** Small white Pomeranian puppy transitions from bedroom mirror to kitchen
 
-**Parámetros:** Estándar (ver sección de Parámetros Globales)
+**Parameters:** Standard (see Global Parameters section)
 
 ---
 
-## Resumen de Progreso
+### Shot-05: Breakfast
 
-| Acto | Shot | VIDEO | Estado |
+**Status:** ⏳ Pending
+
+**Description:** Tiny white Pomeranian puppy eating from a food bowl in modern minimalist kitchen
+
+**Parameters:** Standard (see Global Parameters section)
+
+---
+
+### Shot-06: Decision - Epic Transformation
+
+**Status:** ⏳ Pending
+
+**Description:** Small white fluffy Pomeranian puppy stands on hind legs, transformed demeanor
+
+**Parameters:** Standard (see Global Parameters section)
+
+---
+
+## Progress Summary
+
+| Act | Shot | VIDEO | Status |
 |------|------|-------|--------|
-| 1 | 01 | ⏳ Pendiente | En espera |
-| 1 | 02-06 | ⏳ Pendiente | En espera |
+| 1 | 01 | ⏳ Pending | Waiting |
+| 1 | 02-06 | ⏳ Pending | Waiting |
 
-**Total Completado:** 0/24 videos (0%)
+**Total Completed:** 0/24 videos (0%)
 
 ---
 
-## Parámetros Globales de Video
+## Global Video Parameters
 
-**Estándar para Todos los Videos:**
-- **Modelo:** `bytedance/v1-lite-image-to-video`
-- **Resolución:** 720p
-- **Duración:** 5 segundos
+**Standard for All Videos:**
+- **Model:** `bytedance/v1-lite-image-to-video`
+- **Resolution:** 720p
+- **Duration:** 5 seconds
 - **FPS:** 24
 - **Aspect Ratio:** 16:9
-- **Cámara:** Fixed (true)
-- **Formato:** MP4
+- **Camera:** Fixed (true)
+- **Format:** MP4
 - **Webhook:** `/webhook/tataraVideo_seedance_genVideo` (Production)
 
-**Estructura de Generación:**
-1. Requiere FASE 1 (START IMAGE) ✅ Aprobado
-2. Requiere FASE 2 (END IMAGE) ✅ Aprobado
-3. Video se genera como transición suave entre ambas imágenes
+**Generation Structure:**
+1. Requires PHASE 1 (START IMAGE) ✅ Approved
+2. Requires PHASE 2 (END IMAGE) ✅ Approved
+3. Video is generated as smooth transition between both images
 
-**Convención de Naming:**
-- Video se almacena con timestamp automático al uploadear a FTP
-- Formato: `YYYY-MM-DD_HH-MM-SS.mp4`
+**Naming Convention:**
+- Video is stored with automatic timestamp when uploading to FTP
+- Format: `YYYY-MM-DD_HH-MM-SS.mp4`
 
-**Referencias para Generación:**
-- Los prompts de video están en `05_Prompts.md` con estructura jerárquica por Acto
-- Las imágenes source están catalogadas en `images_metadata.md`
-- Los parámetros técnicos globales están en `00_Settings-Status.md`
+**References for Generation:**
+- Video prompts are in `05_Prompts.md` with hierarchical structure by Act
+- Source images are cataloged in `images_metadata.md`
+- Global technical parameters are in `00_Settings-Status.md`

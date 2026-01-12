@@ -1,31 +1,31 @@
 # ⚙️ Settings & Status
 
-## Configuración Técnica del Proyecto
+## Project Technical Configuration
 
-### Parámetros de Video
+### Video Parameters
 
-| Parámetro | Valor |
+| Parameter | Value |
 |-----------|-------|
-| **Duración Total** | 2 minutos (120 segundos) |
-| **Cantidad de Shots** | 24 shots |
-| **Duración por Shot** | 5 segundos |
-| **Resolución de Imágenes** | 1920x1080 (Full HD) |
-| **Resolución de Videos** | 720p |
+| **Total Duration** | 2 minutes (120 seconds) |
+| **Number of Shots** | 24 shots |
+| **Duration per Shot** | 5 seconds |
+| **Image Resolution** | 1920x1080 (Full HD) |
+| **Video Resolution** | 720p |
 | **Aspect Ratio** | 16:9 |
 | **FPS** | 24 |
-| **Formato de Imagen** | JPEG |
-| **Formato de Video** | MP4 |
+| **Image Format** | JPEG |
+| **Video Format** | MP4 |
 
-### Parámetros de Generación
+### Generation Parameters
 
-| Parámetro | Valor |
+| Parameter | Value |
 |-----------|-------|
-| **Modelo para Imágenes** | `google/nano-banana-edit` |
-| **Modelo para Videos** | `bytedance/v1-lite-image-to-video` |
-| **Output Format Imágenes** | JPEG |
+| **Model for Images** | `google/nano-banana-edit` |
+| **Model for Videos** | `bytedance/v1-lite-image-to-video` |
+| **Images Output Format** | JPEG |
 | **Image Size** | 16:9 |
-| **Duración Video** | 5 segundos |
-| **Resolución Video Generada** | 720p |
+| **Video Duration** | 5 seconds |
+| **Generated Video Resolution** | 720p |
 | **Camera Fixed** | true |
 
 ---

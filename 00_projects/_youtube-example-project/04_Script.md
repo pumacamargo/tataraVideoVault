@@ -1,197 +1,197 @@
 
 # Script - "Pomeranian tries to be a Police"
-**Duración total:** 2 minutos | **Duración por shot:** 5 segundos | **Total shots:** 24
+**Total duration:** 2 minutes | **Duration per shot:** 5 seconds | **Total shots:** 24
 
 ---
 
-## ACTO 1: EL DESPERTAR (0-30s)
+## ACT 1: THE AWAKENING (0-30s)
 
 ### Shot 01
-- **Descripción:** Pomerania duerme profundamente en su cama, la cámara enfoca su cara adorable
-- **Encuadre:** Close-up de la cara, almohada de fondo desenfocado
-- **Movimiento de cámara:** Static, luego zoom in lento
-- **SFX:** Sonido de ronquidos suave
-- **Narratror Script:** "Conoce a Max, un pequeño Pomerania con un sueño muy grande..."
+- **Description:** Pomeranian sleeps deeply in his bed, camera focuses on his adorable face
+- **Framing:** Close-up of face, blurred pillow background
+- **Camera movement:** Static, then slow zoom in
+- **SFX:** Soft snoring sound
+- **Narrator Script:** "Meet Max, a small Pomeranian with a very big dream..."
 
 ### Shot 02
-- **Descripción:** El despertador suena. Pomerania salta de la cama sobresaltado, orejas levantadas
-- **Encuadre:** Full shot de la habitación, cama en el centro
-- **Movimiento de cámara:** Movimiento rápido de cámara por el susto
-- **SFX:** Alarma de reloj + sonido de susto
-- **Narrador Script:** "Hoy sería diferente. Hoy sería... un policía."
+- **Description:** Alarm rings. Pomeranian jumps out of bed startled, ears up
+- **Framing:** Full shot of the room, bed in the center
+- **Camera movement:** Quick camera movement from the startle
+- **SFX:** Alarm clock + startle sound
+- **Narrator Script:** "Today would be different. Today he would be... a police officer."
 
 ### Shot 03
-- **Descripción:** Pomerania se estira, se lame la cara, mira al espejo con determinación
-- **Encuadre:** Medium shot frente al espejo
-- **Movimiento de cámara:** Seguimiento suave de Pomerania
-- **Diálogo:** Pequeños ladridos motivacionales
-- **Narrador Script:** "Había estado esperando este momento toda su vida."
+- **Description:** Pomeranian stretches, licks his face, looks at mirror with determination
+- **Framing:** Medium shot facing the mirror
+- **Camera movement:** Smooth tracking of Pomeranian
+- **Dialogue:** Small motivational barks
+- **Narrator Script:** "He had been waiting for this moment his whole life."
 
 ### Shot 04
-- **Descripción:** Pomerania se asea rápidamente, se cepilla el pelaje esponjoso
-- **Encuadre:** Plano detalle de grooming, mucho movimiento
-- **Movimiento de cámara:** Quick cuts, dinamismo
-- **SFX:** Sonidos de cepillado
-- **Narrador Script:** "Debía verse impecable para su primer día."
+- **Description:** Pomeranian quickly grooms himself, brushes fluffy fur
+- **Framing:** Detail shot of grooming, lots of movement
+- **Camera movement:** Quick cuts, dynamic
+- **SFX:** Brushing sounds
+- **Narrator Script:** "He had to look impeccable for his first day."
 
 ### Shot 05
-- **Descripción:** Pomerania entra a la cocina, salta a una silla frente a la mesa
-- **Encuadre:** Wide shot de la cocina, Pomerania pequeño en silla grande
-- **Movimiento de cámara:** Pan suave, cámara desde el lado
-- **SFX:** Sonidos de pasos pequeños
-- **Narrador Script:** "Primero, desayuno. Un policía necesita energía."
+- **Description:** Pomeranian enters kitchen, jumps onto chair at the table
+- **Framing:** Wide shot of kitchen, small Pomeranian in big chair
+- **Camera movement:** Smooth pan, camera from the side
+- **SFX:** Small footsteps sounds
+- **Narrator Script:** "First, breakfast. A police officer needs energy."
 
 ### Shot 06
-- **Descripción:** Pomerania come comida de perro en un plato, se ve feliz pero apurado
-- **Encuadre:** Top shot del plato, Pomerania comiendo
-- **Movimiento de cámara:** Static
-- **SFX:** Sonidos de comer, lengüetazos
-- **Narrador Script:** "Y mucha determinación."
+- **Description:** Pomeranian eats dog food from bowl, looks happy but rushed
+- **Framing:** Top shot of the bowl, Pomeranian eating
+- **Camera movement:** Static
+- **SFX:** Eating sounds, licking
+- **Narrator Script:** "And lots of determination."
 
 ---
 
-## ACTO 2: CAMINO AL TRABAJO (30-60s)
+## ACT 2: JOURNEY TO WORK (30-60s)
 
 ### Shot 07
-- **Descripción:** Pomerania se pone su primer uniforme de policía (una pequeña placa)
-- **Encuadre:** Medium shot, Pomerania mirando hacia cámara con orgullo
-- **Movimiento de cámara:** Rotación 360 lento, desfile de moda
-- **Diálogo:** Ladridos de orgullo
-- **Narrador Script:** "El uniforme. La insignia del honor."
+- **Description:** Pomeranian puts on his first police uniform (a small badge)
+- **Framing:** Medium shot, Pomeranian looking at camera with pride
+- **Camera movement:** Slow 360 rotation, fashion show
+- **Dialogue:** Proud barks
+- **Narrator Script:** "The uniform. The badge of honor."
 
 ### Shot 08
-- **Descripción:** Pomerania sale por la puerta de su casa, la calle es grande para él
-- **Encuadre:** Wide shot, Pomerania pequeño saliendo por puerta enorme
-- **Movimiento de cámara:** Dolly out, sale por puerta
-- **SFX:** Puerta abriéndose
-- **Narrador Script:** "Camino a la estación de policía."
+- **Description:** Pomeranian exits through his house door, the street is big for him
+- **Framing:** Wide shot, small Pomeranian exiting through huge door
+- **Camera movement:** Dolly out, exits through door
+- **SFX:** Door opening
+- **Narrator Script:** "On the way to the police station."
 
 ### Shot 09
-- **Descripción:** Pomerania camina por la acera, determinado, cruzando la calle
-- **Encuadre:** Seguimiento lateral, level shot
-- **Movimiento de cámara:** Tracking shot, mantiene ritmo con Pomerania
-- **SFX:** Pasos, sonidos de calle
-- **Narrador Script:** "Cada paso lo acercaba a su destino."
+- **Description:** Pomeranian walks on sidewalk, determined, crossing the street
+- **Framing:** Side tracking, level shot
+- **Camera movement:** Tracking shot, keeps pace with Pomeranian
+- **SFX:** Steps, street sounds
+- **Narrator Script:** "Each step brought him closer to his destination."
 
 ### Shot 10
-- **Descripción:** Pomerania llega a la estación de policía, gran edificio, mira hacia arriba asombrado
-- **Encuadre:** Low angle, Pomerania mirando hacia el techo del edificio
-- **Movimiento de cámara:** Tilt up dramático
-- **Diálogo:** Ladrido de asombro
-- **Narrador Script:** "Finalmente. La estación de policía."
+- **Description:** Pomeranian arrives at police station, big building, looks up amazed
+- **Framing:** Low angle, Pomeranian looking at building ceiling
+- **Camera movement:** Dramatic tilt up
+- **Dialogue:** Amazed bark
+- **Narrator Script:** "Finally. The police station."
 
 ### Shot 11
-- **Descripción:** Pomerania entra a la estación, cámara sigue por las puertas automáticas
-- **Encuadre:** Wide shot interior, estación de policía
-- **Movimiento de cámara:** Dolly in a través de puertas
-- **SFX:** Puertas abriéndose, sonidos de estación
-- **Narrador Script:** "Hora de trabajar."
+- **Description:** Pomeranian enters station, camera follows through automatic doors
+- **Framing:** Wide shot interior, police station
+- **Camera movement:** Dolly in through doors
+- **SFX:** Doors opening, station sounds
+- **Narrator Script:** "Time to work."
 
 ### Shot 12
-- **Descripción:** Pomerania se viste completamente: uniforme completo, gorro de policía
-- **Encuadre:** Medium shot, montaje rápido de vestuario
-- **Movimiento de cámara:** Cuts rápidos, energía alta
-- **SFX:** Sonidos de vestuario, cremalleras
-- **Narrador Script:** "Transformado. Oficial Max estaba listo."
+- **Description:** Pomeranian fully dresses: complete uniform, police cap
+- **Framing:** Medium shot, quick wardrobe montage
+- **Camera movement:** Quick cuts, high energy
+- **SFX:** Wardrobe sounds, zippers
+- **Narrator Script:** "Transformed. Officer Max was ready."
 
 ---
 
-## ACTO 3: EN SERVICIO (60-90s)
+## ACT 3: ON DUTY (60-90s)
 
 ### Shot 13
-- **Descripción:** Pomerania patrulla por las calles, camina con actitud de policía importante
-- **Encuadre:** Wide shot, Pomerania en la calle, edificios de fondo
-- **Movimiento de cámara:** Tracking shot, cámara ángulo bajo
-- **SFX:** Música de acción, pasos
-- **Narrador Script:** "Primero: vigilancia. Max estaba preparado para cualquier cosa."
+- **Description:** Pomeranian patrols the streets, walks with important police attitude
+- **Framing:** Wide shot, Pomeranian on street, buildings in background
+- **Camera movement:** Tracking shot, low angle camera
+- **SFX:** Action music, steps
+- **Narrator Script:** "First: surveillance. Max was prepared for anything."
 
 ### Shot 14
-- **Descripción:** Pomerania examina un "crimen" (un trash can volcado), detective intenso
-- **Encuadre:** Close-up de Pomerania olfateando, basura de fondo
-- **Movimiento de cámara:** Circling shot
-- **Diálogo:** Ladridos investigadores
-- **Narrador Script:** "Análisis de escena. Nada se escaparía de su ojo de águila."
+- **Description:** Pomeranian examines a "crime" (a knocked over trash can), intense detective
+- **Framing:** Close-up of Pomeranian sniffing, trash in background
+- **Camera movement:** Circling shot
+- **Dialogue:** Investigative barks
+- **Narrator Script:** "Crime scene analysis. Nothing would escape his eagle eye."
 
 ### Shot 15
-- **Descripción:** De repente, Pomerania ve algo a lo lejos, orejas se alzan, entra en modo persecución
-- **Encuadre:** Medium shot, Pomerania se coloca en posición de carrera
-- **Movimiento de cámara:** Quick snap, cambio de ángulo
-- **SFX:** Sonido de suspenso
-- **Narrador Script:** "Espera. ¿Qué era eso?"
+- **Description:** Suddenly, Pomeranian sees something in the distance, ears perk up, enters chase mode
+- **Framing:** Medium shot, Pomeranian positions in running stance
+- **Camera movement:** Quick snap, angle change
+- **SFX:** Suspense sound
+- **Narrator Script:** "Wait. What was that?"
 
 ### Shot 16
-- **Descripción:** Persecución épica: Pomerania corre a velocidad máxima tras un "sospechoso"
-- **Encuadre:** Cámara detrás de Pomerania, movimiento dinámico
-- **Movimiento de cámara:** Fast tracking shot, energía alta
-- **SFX:** Música de acción, ladridos de esfuerzo
-- **Narrador Script:** "¡A la persecución!"
+- **Description:** Epic chase: Pomeranian runs at maximum speed after a "suspect"
+- **Framing:** Camera behind Pomeranian, dynamic movement
+- **Camera movement:** Fast tracking shot, high energy
+- **SFX:** Action music, effort barks
+- **Narrator Script:** "The chase is on!"
 
 ### Shot 17
-- **Descripción:** Pomerania hace un salto épico sobre un obstáculo
-- **Encuadre:** Side angle, captura el salto en su pico
-- **Movimiento de cámara:** Slow motion, captura acción
-- **SFX:** Música épica, efecto de salto
-- **Narrador Script:** "Nada lo detenería."
+- **Description:** Pomeranian makes an epic jump over an obstacle
+- **Framing:** Side angle, captures jump at its peak
+- **Camera movement:** Slow motion, captures action
+- **SFX:** Epic music, jump effect
+- **Narrator Script:** "Nothing would stop him."
 
 ### Shot 18
-- **Descripción:** Pomerania alcanza al "sospechoso", lo "atrapa" (es un peluche o algo inofensivo)
-- **Encuadre:** Medium shot, Pomerania sobre su presa
-- **Movimiento de cámara:** Static, momento de victoria
-- **Diálogo:** Ladridos de victoria
-- **Narrador Script:** "¡Crimen resuelto!"
+- **Description:** Pomeranian catches the "suspect", "arrests" it (it's a stuffed toy or something harmless)
+- **Framing:** Medium shot, Pomeranian over his prey
+- **Camera movement:** Static, victory moment
+- **Dialogue:** Victory barks
+- **Narrator Script:** "Crime solved!"
 
 ---
 
-## ACTO 4: EL COLAPSO (90-120s)
+## ACT 4: THE COLLAPSE (90-120s)
 
 ### Shot 19
-- **Descripción:** Regreso a la estación después de un día agotador. Pomerania entra tambaleándose
-- **Encuadre:** Wide shot, Pomerania exhausto entrando
-- **Movimiento de cámara:** Slow pan, tono sombrío
-- **SFX:** Respiración pesada, sonido ambiental ligero
-- **Narrador Script:** "El deber cumplido. Pero el cansancio... era real."
+- **Description:** Return to station after exhausting day. Pomeranian enters staggering
+- **Framing:** Wide shot, exhausted Pomeranian entering
+- **Camera movement:** Slow pan, somber tone
+- **SFX:** Heavy breathing, light ambient sound
+- **Narrator Script:** "Duty fulfilled. But the exhaustion... was real."
 
 ### Shot 20
-- **Descripción:** Pomerania se deja caer en una silla, completamente agotado, lengua fuera
-- **Encuadre:** Close-up de la cara exhausta
-- **Movimiento de cámara:** Zoom in lento
-- **Diálogo:** Jadeos de cansancio
-- **Narrador Script:** "Un día largo. Muy largo."
+- **Description:** Pomeranian collapses in chair, completely exhausted, tongue out
+- **Framing:** Close-up of exhausted face
+- **Camera movement:** Slow zoom in
+- **Dialogue:** Tired panting
+- **Narrator Script:** "A long day. Very long."
 
 ### Shot 21
-- **Descripción:** Montaje rápido: Pomerania llega a casa, se quita uniforme
-- **Encuadre:** Cuts rápidos de diferentes ángulos
-- **Movimiento de cámara:** Dynamic cuts
-- **SFX:** Montaje musical
-- **Narrador Script:** "En casa. Finalmente."
+- **Description:** Quick montage: Pomeranian arrives home, takes off uniform
+- **Framing:** Quick cuts from different angles
+- **Camera movement:** Dynamic cuts
+- **SFX:** Musical montage
+- **Narrator Script:** "At home. Finally."
 
 ### Shot 22
-- **Descripción:** Pomerania se mete a bañarse, agua tibia, se relaja visiblemente
-- **Encuadre:** Side shot en bañera, vapor alrededor
-- **Movimiento de cámara:** Peaceful pan
-- **SFX:** Sonidos de agua, música relajante
-- **Narrador Script:** "Un baño para limpiar el día."
+- **Description:** Pomeranian gets into bath, warm water, visibly relaxes
+- **Framing:** Side shot in bathtub, steam around
+- **Camera movement:** Peaceful pan
+- **SFX:** Water sounds, relaxing music
+- **Narrator Script:** "A bath to wash away the day."
 
 ### Shot 23
-- **Descripción:** Pomerania se seca, se pone cómodo, camina hacia su cama
-- **Encuadre:** Wide shot de la habitación, Pomerania caminando lento
-- **Movimiento de cámara:** Tracking suave
-- **SFX:** Música de cierre, sonidos suaves
-- **Narrador Script:** "Mañana sería otro día..."
+- **Description:** Pomeranian dries off, gets comfortable, walks toward his bed
+- **Framing:** Wide shot of room, Pomeranian walking slowly
+- **Camera movement:** Smooth tracking
+- **SFX:** Closing music, soft sounds
+- **Narrator Script:** "Tomorrow would be another day..."
 
 ### Shot 24 (FINAL)
-- **Descripción:** Pomerania se acuesta en su cama, se da la vuelta, está profundamente dormido
-- **Encuadre:** Close-up de la cara, durmiendo pacíficamente, vuelta al principio
-- **Movimiento de cámara:** Zoom out lento
-- **Diálogo:** Pequeños ronquidos
-- **Narrador Script:** "Pero por ahora, descansaba con la satisfacción de un trabajo bien hecho. El sueño de Max... era realidad."
+- **Description:** Pomeranian lies in his bed, turns around, is deeply asleep
+- **Framing:** Close-up of face, sleeping peacefully, return to beginning
+- **Camera movement:** Slow zoom out
+- **Dialogue:** Small snores
+- **Narrator Script:** "But for now, he rested with the satisfaction of a job well done. Max's dream... was reality."
 
 ---
 
-## RESUMEN NARRATIVO
-- **Acto 1 (30s):** Despertar, prepararse, desayunar
-- **Acto 2 (30s):** Viaje a la estación, transformación en policía
-- **Acto 3 (30s):** Servicio, patrulla, persecución épica
-- **Acto 4 (30s):** Regreso, agotamiento, descanso
+## NARRATIVE SUMMARY
+- **Act 1 (30s):** Wake up, prepare, have breakfast
+- **Act 2 (30s):** Journey to station, transformation into police officer
+- **Act 3 (30s):** On duty, patrol, epic chase
+- **Act 4 (30s):** Return, exhaustion, rest
 
-**Tono:** Humorístico, épico, emotivo, cinematográfico
+**Tone:** Humorous, epic, emotional, cinematic

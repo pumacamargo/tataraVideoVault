@@ -1,132 +1,132 @@
 # Shot Images - Pomeranian tries to be a Police
 
-Ver parámetros técnicos en: `00_Settings-Status.md`
+See technical parameters in: `00_Settings-Status.md`
 
 ---
 
-## ACTO 1 - DESPERTAR
+## ACT 1 - AWAKENING
 
-### Shot-01: First Frame - Durmiendo Peacefully
+### Shot-01: First Frame - Sleeping Peacefully
 
-#### FASE 1 - START IMAGE
+#### PHASE 1 - START IMAGE
 
-**Descripción:** Max durmiendo pacíficamente en su cama con pijama rosa, en el dormitorio acogedor con iluminación cálida.
+**Description:** Max sleeping peacefully in his bed with pink pajamas, in the cozy bedroom with warm lighting.
 
 ![Shot-01-START](https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-23-58.jpeg)
 
-**Estado:** ✅ Aprobado
+**Status:** ✅ Approved
 
 ---
 
-#### FASE 2 - END IMAGE
+#### PHASE 2 - END IMAGE
 
-**Descripción:** Max con ojos entreabiertos, comenzando a despertarse
+**Description:** Max with half-open eyes, beginning to wake up
 
 ![Shot-01-END](https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_03-47-28.jpeg)
 
-**Estado:** ✅ Aprobado
+**Status:** ✅ Approved
 
 ---
 
-### Shot-02: Estiramiento y Bostezar
+### Shot-02: Stretching and Yawning
 
-#### FASE 1 - START IMAGE
+#### PHASE 1 - START IMAGE
 
-**Descripción:** Max despertado en la cama, completamente desperto
+**Description:** Max awakened in bed, completely awake
 
-**Imagen:** ⏳ Pendiente
-
----
-
-#### FASE 2 - END IMAGE
-
-**Descripción:** Max estirándose y bostezando
-
-**Imagen:** ⏳ Pendiente
+**Image:** ⏳ Pending
 
 ---
 
-### Shot-03: Aseo y Grooming
+#### PHASE 2 - END IMAGE
 
-#### FASE 1 - START IMAGE
+**Description:** Max stretching and yawning
 
-**Descripción:** Max saliendo de la cama
-
-**Imagen:** ⏳ Pendiente
+**Image:** ⏳ Pending
 
 ---
 
-#### FASE 2 - END IMAGE
+### Shot-03: Grooming and Cleaning
 
-**Descripción:** Max frente al espejo acicalándose
+#### PHASE 1 - START IMAGE
 
-**Imagen:** ⏳ Pendiente
+**Description:** Max getting out of bed
 
----
-
-### Shot-04: Transición a Cocina
-
-#### FASE 1 - START IMAGE
-
-**Descripción:** Max frente al espejo terminando grooming
-
-**Imagen:** ⏳ Pendiente
+**Image:** ⏳ Pending
 
 ---
 
-#### FASE 2 - END IMAGE
+#### PHASE 2 - END IMAGE
 
-**Descripción:** Max en la cocina sentado en silla
+**Description:** Max in front of mirror grooming himself
 
-**Imagen:** ⏳ Pendiente
-
----
-
-### Shot-05: Desayuno
-
-#### FASE 1 - START IMAGE
-
-**Descripción:** Max en cocina antes de comer
-
-**Imagen:** ⏳ Pendiente
+**Image:** ⏳ Pending
 
 ---
 
-#### FASE 2 - END IMAGE
+### Shot-04: Transition to Kitchen
 
-**Descripción:** Max comiendo del tazón
+#### PHASE 1 - START IMAGE
 
-**Imagen:** ⏳ Pendiente
+**Description:** Max in front of mirror finishing grooming
 
----
-
-### Shot-06: Decisión - Transformación Épica
-
-#### FASE 1 - START IMAGE
-
-**Descripción:** Max terminando de comer
-
-**Imagen:** ⏳ Pendiente
+**Image:** ⏳ Pending
 
 ---
 
-#### FASE 2 - END IMAGE
+#### PHASE 2 - END IMAGE
 
-**Descripción:** Max de pie determinado (transformación épica)
+**Description:** Max in kitchen sitting on chair
 
-**Imagen:** ⏳ Pendiente
+**Image:** ⏳ Pending
 
 ---
 
-## Resumen de Progreso
+### Shot-05: Breakfast
 
-| Acto | Shot | FASE 1 | FASE 2 | Estado |
+#### PHASE 1 - START IMAGE
+
+**Description:** Max in kitchen before eating
+
+**Image:** ⏳ Pending
+
+---
+
+#### PHASE 2 - END IMAGE
+
+**Description:** Max eating from bowl
+
+**Image:** ⏳ Pending
+
+---
+
+### Shot-06: Decision - Epic Transformation
+
+#### PHASE 1 - START IMAGE
+
+**Description:** Max finishing eating
+
+**Image:** ⏳ Pending
+
+---
+
+#### PHASE 2 - END IMAGE
+
+**Description:** Max standing determined (epic transformation)
+
+**Image:** ⏳ Pending
+
+---
+
+## Progress Summary
+
+| Act | Shot | PHASE 1 | PHASE 2 | Status |
 |------|------|--------|--------|--------|
-| 1 | 01 | ✅ OK | ✅ OK | Completo |
-| 1 | 02-06 | ⏳ Pendiente | ⏳ Pendiente | Pendiente |
+| 1 | 01 | ✅ OK | ✅ OK | Complete |
+| 1 | 02-06 | ⏳ Pending | ⏳ Pending | Pending |
 
-**Total Completado:** 2/24 imágenes (8.3%)
+**Total Completed:** 2/24 images (8.3%)
 
 ---
 
-**Para detalles técnicos (URLs FTP, timestamps, modelos, webhooks):** Ver `metadata/images_metadata.md`
+**For technical details (FTP URLs, timestamps, models, webhooks):** See `metadata/images_metadata.md`

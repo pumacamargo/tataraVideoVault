@@ -1,16 +1,16 @@
-# 🎬 Prompts para Generación de Contenido
+# 🎬 Prompts for Content Generation
 
-**Proyecto:** Pomeranian tries to be a Police
+**Project:** Pomeranian tries to be a Police
 
-Ver documentación de pipeline en: `/docs/PIPELINE.md`
+See pipeline documentation in: `/docs/PIPELINE.md`
 
 ---
 
-# ACTO 1 - DESPERTAR (6 Shots - 30 segundos)
+# ACT 1 - AWAKENING (6 Shots - 30 seconds)
 
-## Shot-01: First Frame - Durmiendo Peacefully
+## Shot-01: First Frame - Sleeping Peacefully
 
-### FASE 1️⃣ - START IMAGE: Max durmiendo en la cama
+### PHASE 1️⃣ - START IMAGE: Max sleeping in bed
 
 **Prompt:**
 ```
@@ -23,11 +23,11 @@ Warm golden lighting with shallow depth of field and bokeh highlights on fur.
 Professional 3D render style, Pixar quality, 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR la imagen. Guardar URL como [SHOT-01-START-URL]**
+✅ **REVIEW AND APPROVE the image. Save URL as [SHOT-01-START-URL]**
 
 ---
 
-### FASE 2️⃣ - END IMAGE: Max con ojos entreabiertos despertándose
+### PHASE 2️⃣ - END IMAGE: Max with half-open eyes waking up
 
 **Prompt:**
 ```
@@ -41,11 +41,11 @@ Subtle changes only - minor adjustment to show waking process.
 Professional 3D render, 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-01-END-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-01-END-URL]**
 
 ---
 
-### Video para Shot-01 (después de ambas imágenes aprobadas)
+### Video for Shot-01 (after both images approved)
 
 **Prompt Seedance:**
 ```
@@ -54,9 +54,9 @@ Soft cinematic transition. Small fluffy white Pomerania puppy wakes up slowly. E
 
 ---
 
-## Shot-02: Estiramiento y Bostezar
+## Shot-02: Stretching and Yawning
 
-### FASE 1️⃣ - START IMAGE: Max despertado en la cama
+### PHASE 1️⃣ - START IMAGE: Max awakened in bed
 
 **Prompt:**
 ```
@@ -70,11 +70,11 @@ Same character consistency and professional cinematography.
 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-02-START-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-02-START-URL]**
 
 ---
 
-### FASE 2️⃣ - END IMAGE: Max estirándose y bostezando
+### PHASE 2️⃣ - END IMAGE: Max stretching and yawning
 
 **Prompt:**
 ```
@@ -89,11 +89,11 @@ Maintain character consistency and pink pajamas visibility.
 Professional 3D render, 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-02-END-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-02-END-URL]**
 
 ---
 
-### Video para Shot-02
+### Video for Shot-02
 
 **Prompt Seedance:**
 ```
@@ -102,9 +102,9 @@ Adorable white Pomerania puppy wakes up in cozy bed. Big stretching motion, fron
 
 ---
 
-## Shot-03: Aseo y Grooming
+## Shot-03: Grooming and Cleaning
 
-### FASE 1️⃣ - START IMAGE: Max saliendo de la cama
+### PHASE 1️⃣ - START IMAGE: Max getting out of bed
 
 **Prompt:**
 ```
@@ -120,11 +120,11 @@ Transition state between bed and next activity.
 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-03-START-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-03-START-URL]**
 
 ---
 
-### FASE 2️⃣ - END IMAGE: Max frente al espejo acicalándose
+### PHASE 2️⃣ - END IMAGE: Max in front of mirror grooming himself
 
 **Prompt:**
 ```
@@ -140,11 +140,11 @@ Maintain character consistency.
 Professional 3D render, 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-03-END-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-03-END-URL]**
 
 ---
 
-### Video para Shot-03
+### Video for Shot-03
 
 **Prompt Seedance:**
 ```
@@ -153,9 +153,9 @@ Small white Pomerania puppy sitting in front of bedroom mirror, grooming itself.
 
 ---
 
-## Shot-04: Transición a Cocina
+## Shot-04: Transition to Kitchen
 
-### FASE 1️⃣ - START IMAGE: Max frente al espejo terminando grooming
+### PHASE 1️⃣ - START IMAGE: Max in front of mirror finishing grooming
 
 **Prompt:**
 ```
@@ -170,11 +170,11 @@ The puppy appears energized and prepared for the day.
 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-04-START-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-04-START-URL]**
 
 ---
 
-### FASE 2️⃣ - END IMAGE: Max en la cocina sentado en silla
+### PHASE 2️⃣ - END IMAGE: Max in kitchen sitting on chair
 
 **Prompt:**
 ```
@@ -190,11 +190,11 @@ Same character consistency with pink pajamas still visible.
 Professional 3D render, 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-04-END-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-04-END-URL]**
 
 ---
 
-### Video para Shot-04
+### Video for Shot-04
 
 **Prompt Seedance:**
 ```
@@ -203,9 +203,9 @@ Small white Pomerania puppy transitions from bedroom mirror to kitchen. Quick dy
 
 ---
 
-## Shot-05: Desayuno
+## Shot-05: Breakfast
 
-### FASE 1️⃣ - START IMAGE: Max en cocina antes de comer
+### PHASE 1️⃣ - START IMAGE: Max in kitchen before eating
 
 **Prompt:**
 ```
@@ -222,11 +222,11 @@ Same character consistency.
 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-05-START-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-05-START-URL]**
 
 ---
 
-### FASE 2️⃣ - END IMAGE: Max comiendo del tazón
+### PHASE 2️⃣ - END IMAGE: Max eating from bowl
 
 **Prompt:**
 ```
@@ -242,11 +242,11 @@ Maintain character consistency throughout.
 Professional 3D render, 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-05-END-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-05-END-URL]**
 
 ---
 
-### Video para Shot-05
+### Video for Shot-05
 
 **Prompt Seedance:**
 ```
@@ -255,9 +255,9 @@ Tiny white Pomerania puppy eating from a food bowl in modern minimalist kitchen.
 
 ---
 
-## Shot-06: Decisión - Transformación Épica
+## Shot-06: Decision - Epic Transformation
 
-### FASE 1️⃣ - START IMAGE: Max terminando de comer
+### PHASE 1️⃣ - START IMAGE: Max finishing eating
 
 **Prompt:**
 ```
@@ -273,11 +273,11 @@ Same character consistency.
 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-06-START-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-06-START-URL]**
 
 ---
 
-### FASE 2️⃣ - END IMAGE: Max de pie determinado (transformación épica)
+### PHASE 2️⃣ - END IMAGE: Max standing determined (epic transformation)
 
 **Prompt:**
 ```
@@ -294,11 +294,11 @@ Professional cinematography, Disney/Pixar quality.
 1920x1080, no watermark.
 ```
 
-✅ **REVISAR Y APROBAR. Guardar URL como [SHOT-06-END-URL]**
+✅ **REVIEW AND APPROVE. Save URL as [SHOT-06-END-URL]**
 
 ---
 
-### Video para Shot-06
+### Video for Shot-06
 
 **Prompt Seedance:**
 ```
@@ -307,30 +307,30 @@ Small white fluffy Pomerania puppy stands on hind legs, transformed demeanor. En
 
 ---
 
-# ACTO 2 - CAMINO (6 Shots - 30 segundos)
+# ACT 2 - JOURNEY (6 Shots - 30 seconds)
 
-⏳ Pendiente de documentar
-
----
-
-# ACTO 3 - TRABAJO (6 Shots - 30 segundos)
-
-⏳ Pendiente de documentar
+⏳ Pending documentation
 
 ---
 
-# ACTO 4 - REGRESO (6 Shots - 30 segundos)
+# ACT 3 - WORK (6 Shots - 30 seconds)
 
-⏳ Pendiente de documentar
-
----
-
-## ✅ Estado
-
-**Fecha:** 2026-01-12
-**Status:** ✅ Prompts Acto 1 listos para generación
-**Próximo Paso:** Continuar con Shot-02 o documentar Actos 2-4
+⏳ Pending documentation
 
 ---
 
-**Para detalles técnicos (referencias, JSON, webhooks):** Ver `metadata/prompts_metadata.md`
+# ACT 4 - RETURN (6 Shots - 30 seconds)
+
+⏳ Pending documentation
+
+---
+
+## ✅ Status
+
+**Date:** 2026-01-12
+**Status:** ✅ Act 1 Prompts ready for generation
+**Next Step:** Continue with Shot-02 or document Acts 2-4
+
+---
+
+**For technical details (references, JSON, webhooks):** See `metadata/prompts_metadata.md`

@@ -1,20 +1,20 @@
-# Metadata - Prompts y Requests JSON
+# Metadata - Prompts and JSON Requests
 
-Información técnica de prompts, referencias y estructuras JSON para generación de contenido.
+Technical information for prompts, references and JSON structures for content generation.
 
 ---
 
-## ACTO 1 - DESPERTAR
+## ACT 1 - AWAKENING
 
-### Shot-01: First Frame - Durmiendo Peacefully
+### Shot-01: First Frame - Sleeping Peacefully
 
-#### FASE 1️⃣ - START IMAGE
+#### PHASE 1️⃣ - START IMAGE
 
-**Referencias a enviar:**
-- Dormitorio: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-18-50.jpeg`
-- Pomerania Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-26.png`
+**References to send:**
+- Bedroom: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-18-50.jpeg`
+- Pomeranian Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-26.png`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -32,12 +32,12 @@ Información técnica de prompts, referencias y estructuras JSON para generació
 
 ---
 
-#### FASE 2️⃣ - END IMAGE
+#### PHASE 2️⃣ - END IMAGE
 
-**Referencia a enviar:**
-- START IMAGE aprobada: `[SHOT-01-START-URL]`
+**Reference to send:**
+- Approved START IMAGE: `[SHOT-01-START-URL]`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -54,14 +54,14 @@ Información técnica de prompts, referencias y estructuras JSON para generació
 
 ---
 
-#### Video para Shot-01
+#### Video for Shot-01
 
 **Prompt Seedance:**
 ```
 Soft cinematic transition. Small fluffy white Pomerania puppy wakes up slowly. Eyes open from closed to fully alert expression. Subtle head movement lifting from pillow. Warm golden bedroom lighting. Close-up focus on face and eyes. Soft, gentle, adorable. No camera movement. Gentle and tender mood.
 ```
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "bytedance/v1-lite-image-to-video",
@@ -78,16 +78,16 @@ Soft cinematic transition. Small fluffy white Pomerania puppy wakes up slowly. E
 
 ---
 
-### Shot-02: Estiramiento y Bostezar
+### Shot-02: Stretching and Yawning
 
-#### FASE 1️⃣ - START IMAGE
+#### PHASE 1️⃣ - START IMAGE
 
-**Referencias a enviar:**
+**References to send:**
 - Shot-01-END (aprobada): `[SHOT-01-END-URL]`
 - Dormitorio: `https://lemonsushi.com/uploads/tataraVideo/files/dormitorio.jpeg`
 - Pomerania Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/pomerania-pajamas.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -106,12 +106,12 @@ Soft cinematic transition. Small fluffy white Pomerania puppy wakes up slowly. E
 
 ---
 
-#### FASE 2️⃣ - END IMAGE
+#### PHASE 2️⃣ - END IMAGE
 
-**Referencia a enviar:**
+**Reference to send:**
 - START IMAGE aprobada: `[SHOT-02-START-URL]`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -128,14 +128,14 @@ Soft cinematic transition. Small fluffy white Pomerania puppy wakes up slowly. E
 
 ---
 
-#### Video para Shot-02
+#### Video for Shot-02
 
 **Prompt Seedance:**
 ```
 Adorable white Pomerania puppy wakes up in cozy bed. Big stretching motion, front paws extending forward. Wide mouth yawn showing determination and cuteness. Camera slowly zooms in slightly on the face. Warm bedroom lighting with bokeh highlights on fur. Cinematic close-up. Fluffy white fur with soft shadows. Tender and heartwarming mood.
 ```
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "bytedance/v1-lite-image-to-video",
@@ -152,16 +152,16 @@ Adorable white Pomerania puppy wakes up in cozy bed. Big stretching motion, fron
 
 ---
 
-### Shot-03: Aseo y Grooming
+### Shot-03: Grooming and Cleaning
 
-#### FASE 1️⃣ - START IMAGE
+#### PHASE 1️⃣ - START IMAGE
 
-**Referencias a enviar:**
-- Shot-02-END (aprobada): `[SHOT-02-END-URL]`
-- Dormitorio: `https://lemonsushi.com/uploads/tataraVideo/files/dormitorio.jpeg`
-- Pomerania Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/pomerania-pajamas.jpeg`
+**References to send:**
+- Shot-02-END (approved): `[SHOT-02-END-URL]`
+- Bedroom: `https://lemonsushi.com/uploads/tataraVideo/files/dormitorio.jpeg`
+- Pomeranian Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/pomerania-pajamas.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -180,13 +180,13 @@ Adorable white Pomerania puppy wakes up in cozy bed. Big stretching motion, fron
 
 ---
 
-#### FASE 2️⃣ - END IMAGE
+#### PHASE 2️⃣ - END IMAGE
 
-**Referencia a enviar:**
+**Reference to send:**
 - START IMAGE aprobada: `[SHOT-03-START-URL]`
 - Dormitorio: `https://lemonsushi.com/uploads/tataraVideo/files/dormitorio.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -204,14 +204,14 @@ Adorable white Pomerania puppy wakes up in cozy bed. Big stretching motion, fron
 
 ---
 
-#### Video para Shot-03
+#### Video for Shot-03
 
 **Prompt Seedance:**
 ```
 Small white Pomerania puppy sitting in front of bedroom mirror, grooming itself. Paw brushing through fluffy white fur, licking paw, determined expression with big eyes. Soft natural light from window illuminating the fur. Medium shot framing. Camera slight pan to the right. Transition from relaxed to focused mood. Professional cinematography.
 ```
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "bytedance/v1-lite-image-to-video",
@@ -228,15 +228,15 @@ Small white Pomerania puppy sitting in front of bedroom mirror, grooming itself.
 
 ---
 
-### Shot-04: Transición a Cocina
+### Shot-04: Transition to Kitchen
 
-#### FASE 1️⃣ - START IMAGE
+#### PHASE 1️⃣ - START IMAGE
 
-**Referencia a enviar:**
-- Shot-03-END (aprobada): `[SHOT-03-END-URL]`
-- Dormitorio: `https://lemonsushi.com/uploads/tataraVideo/files/dormitorio.jpeg`
+**Reference to send:**
+- Shot-03-END (approved): `[SHOT-03-END-URL]`
+- Bedroom: `https://lemonsushi.com/uploads/tataraVideo/files/dormitorio.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -254,14 +254,14 @@ Small white Pomerania puppy sitting in front of bedroom mirror, grooming itself.
 
 ---
 
-#### FASE 2️⃣ - END IMAGE
+#### PHASE 2️⃣ - END IMAGE
 
-**Referencias a enviar:**
+**References to send:**
 - START IMAGE aprobada: `[SHOT-04-START-URL]`
 - Cocina: `https://lemonsushi.com/uploads/tataraVideo/files/cocina.jpeg`
 - Pomerania Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/pomerania-pajamas.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -280,14 +280,14 @@ Small white Pomerania puppy sitting in front of bedroom mirror, grooming itself.
 
 ---
 
-#### Video para Shot-04
+#### Video for Shot-04
 
 **Prompt Seedance:**
 ```
 Small white Pomerania puppy transitions from bedroom mirror to kitchen. Quick dynamic movement. Scene shifts from bedroom to modern minimalist kitchen. Dog appears more energized and focused. Natural light transitions from bedroom golden to bright kitchen sunlight. Mood escalates from grooming routine to breakfast preparation.
 ```
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "bytedance/v1-lite-image-to-video",
@@ -304,16 +304,16 @@ Small white Pomerania puppy transitions from bedroom mirror to kitchen. Quick dy
 
 ---
 
-### Shot-05: Desayuno
+### Shot-05: Breakfast
 
-#### FASE 1️⃣ - START IMAGE
+#### PHASE 1️⃣ - START IMAGE
 
-**Referencias a enviar:**
-- Shot-04-END (aprobada): `[SHOT-04-END-URL]`
-- Cocina: `https://lemonsushi.com/uploads/tataraVideo/files/cocina.jpeg`
-- Pomerania Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/pomerania-pajamas.jpeg`
+**References to send:**
+- Shot-04-END (approved): `[SHOT-04-END-URL]`
+- Kitchen: `https://lemonsushi.com/uploads/tataraVideo/files/cocina.jpeg`
+- Pomeranian Pajamas: `https://lemonsushi.com/uploads/tataraVideo/files/pomerania-pajamas.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -332,12 +332,12 @@ Small white Pomerania puppy transitions from bedroom mirror to kitchen. Quick dy
 
 ---
 
-#### FASE 2️⃣ - END IMAGE
+#### PHASE 2️⃣ - END IMAGE
 
-**Referencia a enviar:**
+**Reference to send:**
 - START IMAGE aprobada: `[SHOT-05-START-URL]`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -354,14 +354,14 @@ Small white Pomerania puppy transitions from bedroom mirror to kitchen. Quick dy
 
 ---
 
-#### Video para Shot-05
+#### Video for Shot-05
 
 **Prompt Seedance:**
 ```
 Tiny white Pomerania puppy eating from a food bowl in modern minimalist kitchen. Dog sitting on small chair at dining table scale. Dynamic quick energetic movement. Cutaway shots: mouth in bowl, head up with satisfied expression, determination growing. Natural light flooding from window. Quick pans montage style. Mood transitions from cozy to energetic. Professional food photography style.
 ```
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "bytedance/v1-lite-image-to-video",
@@ -378,15 +378,15 @@ Tiny white Pomerania puppy eating from a food bowl in modern minimalist kitchen.
 
 ---
 
-### Shot-06: Decisión - Transformación Épica
+### Shot-06: Decision - Epic Transformation
 
-#### FASE 1️⃣ - START IMAGE
+#### PHASE 1️⃣ - START IMAGE
 
-**Referencias a enviar:**
-- Shot-05-END (aprobada): `[SHOT-05-END-URL]`
-- Cocina: `https://lemonsushi.com/uploads/tataraVideo/files/cocina.jpeg`
+**References to send:**
+- Shot-05-END (approved): `[SHOT-05-END-URL]`
+- Kitchen: `https://lemonsushi.com/uploads/tataraVideo/files/cocina.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -404,13 +404,13 @@ Tiny white Pomerania puppy eating from a food bowl in modern minimalist kitchen.
 
 ---
 
-#### FASE 2️⃣ - END IMAGE
+#### PHASE 2️⃣ - END IMAGE
 
-**Referencias a enviar:**
+**References to send:**
 - START IMAGE aprobada: `[SHOT-06-START-URL]`
 - Pomerania Police: `https://lemonsushi.com/uploads/tataraVideo/files/pomerania-police.jpeg`
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "google/nano-banana-edit",
@@ -428,14 +428,14 @@ Tiny white Pomerania puppy eating from a food bowl in modern minimalist kitchen.
 
 ---
 
-#### Video para Shot-06
+#### Video for Shot-06
 
 **Prompt Seedance:**
 ```
 Small white fluffy Pomerania puppy stands on hind legs, transformed demeanor. Energized and determined expression. Eyes bright and focused. Cinematic lighting, dramatic but still adorable. Camera pull back slowly from close-up. Mood shifts from breakfast routine to epic determination. Rise in tension, hopeful and determined energy. Professional cinematography, Disney/Pixar quality.
 ```
 
-**JSON a enviar:**
+**JSON to send:**
 ```json
 {
   "model": "bytedance/v1-lite-image-to-video",

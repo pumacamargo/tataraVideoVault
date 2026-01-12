@@ -1,7 +1,7 @@
 ## Shots
-1. Pomeranian despierta en su cama en forma de Patrulla
-2. Pomeranian come desayuno algo saludable
-3. Pomeranian sale de su casa vestido de policia
-4. Pomaranian regresa a su casa cansado
-5. Pomeranian Toma un banio
-6. Pomeraninan duerme.
+1. Pomeranian wakes up in his bed shaped like a Patrol car
+2. Pomeranian eats a healthy breakfast
+3. Pomeranian leaves his house dressed as a police officer
+4. Pomeranian returns home tired
+5. Pomeranian takes a bath
+6. Pomeranian sleeps.

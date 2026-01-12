@@ -1,80 +1,80 @@
 # Shot Videos - Pomeranian tries to be a Police
 
-Ver parámetros técnicos en: `00_Settings-Status.md`
+See technical parameters in: `00_Settings-Status.md`
 
 ---
 
-## ACTO 1 - DESPERTAR
+## ACT 1 - AWAKENING
 
-### Shot-01: First Frame - Durmiendo Peacefully
+### Shot-01: First Frame - Sleeping Peacefully
 
-**Descripción:** Transición suave de Max durmiendo a despertándose, con movimiento sutil de cabeza
+**Description:** Smooth transition from Max sleeping to waking up, with subtle head movement
 
-**Video:** ⏳ Pendiente
+**Video:** ⏳ Pending
 
-**Estado:** En espera
-
----
-
-### Shot-02: Estiramiento y Bostezar
-
-**Descripción:** Adorable white Pomerania puppy wakes up in cozy bed, big stretching motion
-
-**Video:** ⏳ Pendiente
-
-**Estado:** En espera
+**Status:** Waiting
 
 ---
 
-### Shot-03: Aseo y Grooming
+### Shot-02: Stretching and Yawning
 
-**Descripción:** Small white Pomerania puppy sitting in front of bedroom mirror, grooming itself
+**Description:** Adorable white Pomeranian puppy wakes up in cozy bed, big stretching motion
 
-**Video:** ⏳ Pendiente
+**Video:** ⏳ Pending
 
-**Estado:** En espera
-
----
-
-### Shot-04: Transición a Cocina
-
-**Descripción:** Small white Pomerania puppy transitions from bedroom mirror to kitchen
-
-**Video:** ⏳ Pendiente
-
-**Estado:** En espera
+**Status:** Waiting
 
 ---
 
-### Shot-05: Desayuno
+### Shot-03: Grooming and Cleaning
 
-**Descripción:** Tiny white Pomerania puppy eating from a food bowl in modern minimalist kitchen
+**Description:** Small white Pomeranian puppy sitting in front of bedroom mirror, grooming itself
 
-**Video:** ⏳ Pendiente
+**Video:** ⏳ Pending
 
-**Estado:** En espera
-
----
-
-### Shot-06: Decisión - Transformación Épica
-
-**Descripción:** Small white fluffy Pomerania puppy stands on hind legs, transformed demeanor
-
-**Video:** ⏳ Pendiente
-
-**Estado:** En espera
+**Status:** Waiting
 
 ---
 
-## Resumen de Progreso
+### Shot-04: Transition to Kitchen
 
-| Acto | Shot | VIDEO | Estado |
+**Description:** Small white Pomeranian puppy transitions from bedroom mirror to kitchen
+
+**Video:** ⏳ Pending
+
+**Status:** Waiting
+
+---
+
+### Shot-05: Breakfast
+
+**Description:** Tiny white Pomeranian puppy eating from a food bowl in modern minimalist kitchen
+
+**Video:** ⏳ Pending
+
+**Status:** Waiting
+
+---
+
+### Shot-06: Decision - Epic Transformation
+
+**Description:** Small white fluffy Pomeranian puppy stands on hind legs, transformed demeanor
+
+**Video:** ⏳ Pending
+
+**Status:** Waiting
+
+---
+
+## Progress Summary
+
+| Act | Shot | VIDEO | Status |
 |------|------|-------|--------|
-| 1 | 01 | ⏳ Pendiente | En espera (imágenes OK) |
-| 1 | 02-06 | ⏳ Pendiente | En espera |
+| 1 | 01 | ⏳ Pending | Waiting (images OK) |
+| 1 | 02-06 | ⏳ Pending | Waiting |
 
-**Total Completado:** 0/24 videos (0%)
+**Total Completed:** 0/24 videos (0%)
 
 ---
 
-**Para detalles técnicos (URLs FTP, imágenes source, parámetros, webhooks):** Ver `metadata/videos_metadata.md`
+**For technical details (FTP URLs, source images, parameters, webhooks):** See `metadata/videos_metadata.md`
