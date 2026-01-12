@@ -110,9 +110,13 @@ Every URL is defined ONCE here. All other files use reference tags `[TAG-NAME]` 
 
 #### [SHOT-02-PHASE1-URL]
 - **Definition:** First image of Shot-02 (Max awakened in bed, completely awake)
-- **Status:** ⏳ Pending Generation
+- **FTP URL:** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_13-45-12.jpeg`
+- **Generation Timestamp:** `2026-01-12_13-45-12`
+- **Status:** ✅ Approved, Version 1.0
 - **Character Reference:** [POMERANIAN-PAJAMAS-REF]
 - **Location Reference:** [BEDROOM-REF]
+- **Model:** `google/nano-banana-edit`
+- **Generation Time:** 24 seconds
 
 #### [SHOT-02-PHASE2-URL]
 - **Definition:** Second image of Shot-02 (Max stretching and yawning)
@@ -124,9 +128,13 @@ Every URL is defined ONCE here. All other files use reference tags `[TAG-NAME]` 
 
 #### [SHOT-03-PHASE1-URL]
 - **Definition:** First image of Shot-03 (Max getting out of bed)
-- **Status:** ⏳ Pending Generation
+- **FTP URL:** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg`
+- **Generation Timestamp:** `2026-01-12_14-00-19`
+- **Status:** ✅ Approved, Version 1.0
 - **Character Reference:** [POMERANIAN-PAJAMAS-REF]
 - **Location Reference:** [BEDROOM-REF]
+- **Model:** `google/nano-banana-edit`
+- **Generation Time:** 18 seconds
 
 #### [SHOT-03-PHASE2-URL]
 - **Definition:** Second image of Shot-03 (Max in front of mirror grooming himself)
@@ -138,9 +146,13 @@ Every URL is defined ONCE here. All other files use reference tags `[TAG-NAME]` 
 
 #### [SHOT-04-PHASE1-URL]
 - **Definition:** First image of Shot-04 (Max in front of mirror finishing grooming)
-- **Status:** ⏳ Pending Generation
+- **FTP URL:** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg`
+- **Generation Timestamp:** `2026-01-12_14-00-19`
+- **Status:** ✅ Approved, Version 1.0
 - **Character Reference:** [POMERANIAN-PAJAMAS-REF]
 - **Location Reference:** [BEDROOM-REF]
+- **Model:** `google/nano-banana-edit`
+- **Generation Time:** 19 seconds
 
 #### [SHOT-04-PHASE2-URL]
 - **Definition:** Second image of Shot-04 (Max in kitchen sitting on chair)
@@ -152,9 +164,13 @@ Every URL is defined ONCE here. All other files use reference tags `[TAG-NAME]` 
 
 #### [SHOT-05-PHASE1-URL]
 - **Definition:** First image of Shot-05 (Max in kitchen before eating)
-- **Status:** ⏳ Pending Generation
+- **FTP URL:** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg`
+- **Generation Timestamp:** `2026-01-12_14-00-19`
+- **Status:** ✅ Approved, Version 1.0
 - **Character Reference:** [POMERANIAN-PAJAMAS-REF]
 - **Location Reference:** [KITCHEN-REF]
+- **Model:** `google/nano-banana-edit`
+- **Generation Time:** 19 seconds
 
 #### [SHOT-05-PHASE2-URL]
 - **Definition:** Second image of Shot-05 (Max eating from bowl)
@@ -166,9 +182,13 @@ Every URL is defined ONCE here. All other files use reference tags `[TAG-NAME]` 
 
 #### [SHOT-06-PHASE1-URL]
 - **Definition:** First image of Shot-06 (Max finishing eating)
-- **Status:** ⏳ Pending Generation
+- **FTP URL:** `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg`
+- **Generation Timestamp:** `2026-01-12_14-00-19`
+- **Status:** ✅ Approved, Version 1.0
 - **Character Reference:** [POMERANIAN-PAJAMAS-REF]
 - **Location Reference:** [KITCHEN-REF]
+- **Model:** `google/nano-banana-edit`
+- **Generation Time:** 17 seconds
 
 #### [SHOT-06-PHASE2-URL]
 - **Definition:** Second image of Shot-06 (Max standing determined - epic transformation)

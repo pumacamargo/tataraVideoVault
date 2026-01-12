@@ -32,17 +32,21 @@ See technical parameters in: `00_Settings-Status.md`
 
 #### PHASE 1 - START IMAGE
 
-**Description:** Max awakened in bed, completely awake
+**Description:** Max awakened in bed, completely awake with alert, energized expression
 
-**Image:** ⏳ Pending
+![Shot-02-PHASE1](https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_13-45-12.jpeg)
+
+**Status:** ✅ Approved
 
 ---
 
 #### PHASE 2 - END IMAGE
 
-**Description:** Max stretching and yawning
+**Description:** Max stretching and yawning with wide open mouth and determined expression
 
 **Image:** ⏳ Pending
+
+**Status:** ⏳ Pending
 
 ---
 
@@ -50,9 +54,11 @@ See technical parameters in: `00_Settings-Status.md`
 
 #### PHASE 1 - START IMAGE
 
-**Description:** Max getting out of bed
+**Description:** Max getting out of bed, stretched and energized
 
-**Image:** ⏳ Pending
+![Shot-03-PHASE1](https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg)
+
+**Status:** ✅ Approved
 
 ---
 
@@ -62,15 +68,19 @@ See technical parameters in: `00_Settings-Status.md`
 
 **Image:** ⏳ Pending
 
+**Status:** ⏳ Pending
+
 ---
 
 ### Shot-04: Transition to Kitchen
 
 #### PHASE 1 - START IMAGE
 
-**Description:** Max in front of mirror finishing grooming
+**Description:** Max in kitchen, excited and eager expression
 
-**Image:** ⏳ Pending
+![Shot-04-PHASE1](https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg)
+
+**Status:** ✅ Approved
 
 ---
 
@@ -80,15 +90,19 @@ See technical parameters in: `00_Settings-Status.md`
 
 **Image:** ⏳ Pending
 
+**Status:** ⏳ Pending
+
 ---
 
 ### Shot-05: Breakfast
 
 #### PHASE 1 - START IMAGE
 
-**Description:** Max in kitchen before eating
+**Description:** Max alert and hungry, empty food bowl ready for breakfast
 
-**Image:** ⏳ Pending
+![Shot-05-PHASE1](https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg)
+
+**Status:** ✅ Approved
 
 ---
 
@@ -98,15 +112,19 @@ See technical parameters in: `00_Settings-Status.md`
 
 **Image:** ⏳ Pending
 
+**Status:** ⏳ Pending
+
 ---
 
 ### Shot-06: Decision - Epic Transformation
 
 #### PHASE 1 - START IMAGE
 
-**Description:** Max finishing eating
+**Description:** Max finishing meal, energized and satisfied with growing determination
 
-**Image:** ⏳ Pending
+![Shot-06-PHASE1](https://lemonsushi.com/uploads/tataraVideo/files/2026-01-12_14-00-19.jpeg)
+
+**Status:** ✅ Approved
 
 ---
 
@@ -116,6 +134,8 @@ See technical parameters in: `00_Settings-Status.md`
 
 **Image:** ⏳ Pending
 
+**Status:** ⏳ Pending
+
 ---
 
 ## Progress Summary
@@ -123,9 +143,15 @@ See technical parameters in: `00_Settings-Status.md`
 | Act | Shot | PHASE 1 | PHASE 2 | Status |
 |------|------|--------|--------|--------|
 | 1 | 01 | ✅ OK | ✅ OK | Complete |
-| 1 | 02-06 | ⏳ Pending | ⏳ Pending | Pending |
+| 1 | 02 | ✅ OK | ⏳ Pending | In Progress |
+| 1 | 03 | ✅ OK | ⏳ Pending | In Progress |
+| 1 | 04 | ✅ OK | ⏳ Pending | In Progress |
+| 1 | 05 | ✅ OK | ⏳ Pending | In Progress |
+| 1 | 06 | ✅ OK | ⏳ Pending | In Progress |
 
-**Total Completed:** 2/24 images (8.3%)
+**Total PHASE 1 Completed:** 6/12 (50%)
+**Total PHASE 2 Completed:** 1/12 (8.3%)
+**Overall Progress:** 7/24 images (29.2%)
 
 ---
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ddc2dda8c6302c5",
+        "id": "a1b8fc776faa9ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "d38f07da0f38d615",
+            "id": "f2dfb5ffbbea55cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,12 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "d38f07da0f38d615",
+  "active": "f2dfb5ffbbea55cc",
   "lastOpenFiles": [
+    "00_projects/_youtube-example-project/08_ShotImages.md",
+    "00_projects/_youtube-example-project/07_Youtube.md",
+    "00_projects/_youtube-example-project/06_Music.md",
+    "00_projects/_youtube-example-project/05_Prompts.md",
+    "00_projects/_youtube-example-project/04_Script.md",
+    "00_projects/_youtube-example-project/03_Shot-ideas.md",
+    "00_projects/_youtube-example-project/02_Art-Direction.md",
+    "00_projects/_youtube-example-project/01_Concept.md",
+    "00_projects/_youtube-example-project/00_Settings-Status.md",
+    "00_projects/_youtube-example-project/09_ShotVideos.md",
     "START HERE.md",
     "00_projects/_youtube-example-project/metadata/central_references.md",
-    "00_projects/_youtube-example-project/09_ShotVideos.md",
-    "00_projects/_youtube-example-project/08_ShotImages.md",
     "01_guides/Tiktok Shop.md",
     "01_guides/Family and Kids show.md",
     "01_guides/Youtube.md",
@@ -198,14 +206,6 @@
     "02_templates/04-Prompt.md",
     "02_templates/01-Script.md",
     "02_templates/05-Feedback.md",
-    "00_projects/_youtube-example-project/00_Settings-Status.md",
-    "00_projects/_youtube-example-project/07_Youtube.md",
-    "00_projects/_youtube-example-project/06_Music.md",
-    "00_projects/_youtube-example-project/05_Prompts.md",
-    "00_projects/_youtube-example-project/04_Script.md",
-    "00_projects/_youtube-example-project/03_Shot-ideas.md",
-    "00_projects/_youtube-example-project/02_Art-Direction.md",
-    "00_projects/_youtube-example-project/01_Concept.md",
     "00_projects/_youtube-example-project/metadata/videos_metadata.md",
     "00_projects/_youtube-example-project/metadata/prompts_metadata.md",
     "00_projects/_youtube-example-project/metadata/images_metadata.md",
