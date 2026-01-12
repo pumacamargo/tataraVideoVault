@@ -6,18 +6,14 @@
 
 **Referencia Principal:**
 - **Con Uniforme Policía:** ![Max Police](file:///P:/tataraVideo/media/_youtube-example-project/art/characters/pomerania-police.jpg)
-  - URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-31.jpeg`
-  - Uniforma azul oscuro profesional
+  - Uniforme azul oscuro profesional
   - Placa dorada
   - Gorro de policía
-  - Colores: #0a1428 (azul), #d4af37 (dorado)
 
 - **Con Pijama:** ![Max Pajamas](file:///P:/tataraVideo/media/_youtube-example-project/art/characters/pomerania-pajamas.jpg)
-  - URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-26.png`
   - Pijama rosa suave
   - Adorable y relajado
   - Orejas con moñas rosadas
-  - Colores: #ffb6c1 (rosa), #ffffff (blanco)
 
 **Características:**
 - Pelaje blanco esponjoso (muy fluffy)
@@ -33,15 +29,13 @@ Basadas en el estilo de Max (adorable pero épico):
 
 ### 1. Dormitorio
 ![Dormitorio](file:///P:/tataraVideo/media/_youtube-example-project/art/locations/dormitorio.jpeg)
-- URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-18-50.jpeg`
 - Cama pequeña, acogedora
 - Iluminación cálida
 - Almohada esponjosa
-- Colores: Tonos cálidos, beige, blanco
+- Tonos cálidos, beige, blanco
 
 ### 2. Cocina
 ![Cocina](file:///P:/tataraVideo/media/_youtube-example-project/art/locations/cocina.jpeg)
-- URL FTP: `https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-35.jpeg`
 - Escala reducida (para tamaño de Max)
 - Moderna y limpia
 - Platos y comida de perro
@@ -59,22 +53,22 @@ Basadas en el estilo de Max (adorable pero épico):
 - Escritorios, sillas
 - Iluminación fluorescente
 - Profesional pero acogedor
-- Colores: Azules, grises, tonos institucionales
+- Tonos azules, grises, institucionales
 
 ---
 
 ## 🎨 Paleta de Colores
 
 ### Colores Principales
-- **Azul Oscuro:** #0a1428 (Uniforme policía, profesionalismo)
-- **Rosa Suave:** #ffb6c1 (Pijama, adorabilidad)
-- **Dorado:** #d4af37 (Placa, detalles de autoridad)
-- **Blanco:** #ffffff (Pelaje de Max, limpieza)
+- **Azul Oscuro:** Uniforme policía, profesionalismo
+- **Rosa Suave:** Pijama, adorabilidad
+- **Dorado:** Placa, detalles de autoridad
+- **Blanco:** Pelaje de Max, limpieza
 
 ### Colores Secundarios
-- **Beige Cálido:** #f5e6d3 (Fondos cálidos)
-- **Gris Profesional:** #808080 (Estación, escenas interiores)
-- **Verde Suave:** #a8d5ba (Naturaleza, calle)
+- **Beige Cálido:** Fondos cálidos
+- **Gris Profesional:** Estación, escenas interiores
+- **Verde Suave:** Naturaleza, calle
 
 ---
 
@@ -125,7 +119,6 @@ Basadas en el estilo de Max (adorable pero épico):
 - **Expresiones:** Ojos grandes, emociones claras
 - **Iluminación:** Mantener pelaje luminoso, contraste dramático
 - **Sin texto:** Solo en edición posterior (títulos, créditos)
-- **Calidad:** 1920x1080, cinematográfica profesional
 
 ---
 
@@ -134,4 +127,9 @@ Basadas en el estilo de Max (adorable pero épico):
 **Personaje Base:** Pomerania blanco adorable + profesional
 **Estilo:** Animación 3D / Render cinematográfico
 **Inspiración:** Lo adorable puede ser épico
-**Duración:** 2 minutos, 24 shots de 5s cada uno
+
+Ver parámetros técnicos en: `00_Settings-Status.md`
+
+---
+
+**Para detalles técnicos (URLs FTP, códigos hexadecimales, referencias):** Ver `metadata/art_direction_metadata.md`

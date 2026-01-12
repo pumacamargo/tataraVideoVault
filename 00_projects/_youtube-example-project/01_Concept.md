@@ -66,16 +66,7 @@ Un día en la vida de **Max**, un pequeño Pomerania blanco y esponjoso que real
 
 ---
 
-## 📊 Parámetros Técnicos
-
-- **Duración total:** 2 minutos (120 segundos)
-- **Cantidad de shots:** 24 shots
-- **Duración por shot:** 5 segundos (promedio)
-- **Género:** Comedia + Acción + Drama familiar
-- **Estilo visual:** Animación 3D cinematográfica
-- **Resolución:** 1920x1080 (Full HD)
-- **FPS:** 24 fps (cinemático)
-- **Paleta color:** Azul, Naranja, Blanco, Rosa (según Dirección de Arte)
+Ver parámetros técnicos en: `00_Settings-Status.md`
 
 ---
 
@@ -112,3 +103,6 @@ Un día en la vida de **Max**, un pequeño Pomerania blanco y esponjoso que real
 - ✅ Alto potencial de shares/viralidad
 - ✅ Adaptable a múltiples plataformas
 
+---
+
+**Para detalles técnicos de parámetros:** Ver `00_Settings-Status.md`
