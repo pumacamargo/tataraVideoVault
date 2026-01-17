@@ -18,6 +18,28 @@ A day in the life of **Max**, a small fluffy white Pomeranian who fulfills his d
 
 **Tone:** Humorous but epic. The adorableness contrasts with professional determination. Cinematography of a small great hero.
 
+## 🎪 Act Structure
+
+**Act 1 (30s):** The Awakening
+- Introduction of Max
+- Transformation from sleeping to ready
+- Setup: "today would be special"
+
+**Act 2 (30s):** The Journey
+- Journey to the station
+- Transformation into full uniform
+- Setup: "Officer Max is ready"
+
+**Act 3 (30s):** The Action
+- Patrol and surveillance
+- Comic investigation
+- Epic chase (climax)
+
+**Act 4 (30s):** The Return
+- Exhausted return
+- Recovery (bath, rest)
+- Payoff: "dream fulfilled"
+
 ---
 
 ## 💡 Why will people watch it?
@@ -66,34 +88,6 @@ A day in the life of **Max**, a small fluffy white Pomeranian who fulfills his d
 
 ---
 
-See technical parameters in: `00_Settings-Status.md`
-
----
-
-## 🎪 Act Structure
-
-**Act 1 (30s):** The Awakening
-- Introduction of Max
-- Transformation from sleeping to ready
-- Setup: "today would be special"
-
-**Act 2 (30s):** The Journey
-- Journey to the station
-- Transformation into full uniform
-- Setup: "Officer Max is ready"
-
-**Act 3 (30s):** The Action
-- Patrol and surveillance
-- Comic investigation
-- Epic chase (climax)
-
-**Act 4 (30s):** The Return
-- Exhausted return
-- Recovery (bath, rest)
-- Payoff: "dream fulfilled"
-
----
-
 ## ✨ Unique Differentiators
 
 - ✅ Short format perfect for social media
@@ -103,6 +97,3 @@ See technical parameters in: `00_Settings-Status.md`
 - ✅ High potential for shares/virality
 - ✅ Adaptable to multiple platforms
 
----
-
-**For technical parameter details:** See `00_Settings-Status.md`

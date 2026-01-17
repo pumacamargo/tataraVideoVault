@@ -13,10 +13,10 @@
             "state": {
               "type": "json",
               "state": {
-                "file": "00_projects/_youtube-example-project/06_shots.json"
+                "file": "00_projects/_youtube-example-project/06_prompts.json"
               },
               "icon": "lucide-file",
-              "title": "06_shots"
+              "title": "06_prompts"
             }
           }
         ]
@@ -178,26 +178,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "27b78460fb0fd529",
   "lastOpenFiles": [
-    "00_projects/_youtube-example-project/03_settings.json",
-    "00_projects/_youtube-example-project/04_artDirection.json.tmp.14264.1768654162167",
-    "00_projects/_youtube-example-project/04_artDirection.json",
+    "00_projects/_youtube-example-project/webapp.html",
     "00_projects/_youtube-example-project/05_script.json",
-    "00_projects/_youtube-example-project/06_shots.json",
-    "00_projects/_youtube-example-project/07_music.json",
-    "00_projects/_youtube-example-project/08_youtube.json",
-    "00_projects/_youtube-example-project/script.json",
-    "00_projects/_youtube-example-project/settings.json",
+    "00_projects/_youtube-example-project/06_prompts.json",
+    "00_projects/_youtube-example-project/05_script.json.tmp.14264.1768655718358",
+    "00_projects/_youtube-example-project/05_script.json.tmp.14264.1768655694945",
+    "00_projects/_youtube-example-project/05_script.json.tmp.14264.1768655629358",
+    "00_projects/_youtube-example-project/05_script.json.tmp.14264.1768655619857",
+    "00_projects/_youtube-example-project/05_script.json.tmp.14264.1768655596782",
+    "00_projects/_youtube-example-project/05_script.json.tmp.14264.1768655405973",
+    "00_projects/_youtube-example-project/sedTr6tXg",
+    "00_projects/_youtube-example-project/sedMGMPGy",
     "00_projects/_youtube-example-project/02_shotIdeas.md",
     "00_projects/_youtube-example-project/01_concept.md",
     "00_projects/_youtube-example-project/concept.md",
     "00_projects/_youtube-example-project/shotIdeas.md",
-    "00_projects/_youtube-example-project/shots.json",
-    "00_projects/_youtube-example-project/music.json",
     "00_projects/_youtube-example-project/02_Art-Direction.md",
     "00_projects/_youtube-example-project/01_Concept.md",
     "00_projects/_youtube-example-project/00_Settings-Status.md",

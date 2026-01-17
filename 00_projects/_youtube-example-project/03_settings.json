@@ -2,7 +2,6 @@
   "project": {
     "name": "Pomeranian tries to be a Police",
     "slug": "youtube-example-project",
-    "description": "A 2-minute video about Max, a small Pomeranian with a big dream to become a police officer",
     "created_date": "2026-01-11",
     "status": "in_production"
   },
@@ -20,12 +19,10 @@
     "video_model": "bytedance/v1-lite-image-to-video",
     "image_format": "jpeg",
     "image_size": "16:9",
-    "video_resolution": "720p",
+    "video_resolution": "480p",
     "video_duration": "5",
     "webhook_url_base": "https://n8n.lemonsushi.com/webhook",
-    "ftp_base_url": "https://lemonsushi.com/uploads/tataraVideo/files"
+    "ftp_base_url": "https://lemonsushi.com/uploads/tataraVideo/files",
+    "storage_path": "/media/_youtube-example-project"
   },
-  "storage": {
-    "media_path": "/media/_youtube-example-project"
-  }
 }
