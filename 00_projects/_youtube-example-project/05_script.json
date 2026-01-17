@@ -40,8 +40,8 @@
       "framing": "Close-up of face, blurred pillow background",
       "camera_movement": "Static, then slow zoom in",
       "sfx": ["Soft snoring sound"],
-      "narrator_script": "Meet Max, a small Pomeranian with a very big dream...",
-      "location_ref": "BEDROOM-REF"
+      "dialogue": [],
+      "narrator_script": "Meet Max, a small Pomeranian with a very big dream..."
     },
     {
       "id": 2,
@@ -51,8 +51,8 @@
       "framing": "Full shot of the room, bed in the center",
       "camera_movement": "Quick camera movement from the startle",
       "sfx": ["Alarm clock", "Startle sound"],
-      "narrator_script": "Today would be different. Today he would be... a police officer.",
-      "location_ref": "BEDROOM-REF"
+      "dialogue": [],
+      "narrator_script": "Today would be different. Today he would be... a police officer."
     },
     {
       "id": 3,
@@ -61,9 +61,9 @@
       "description": "Pomeranian stretches, licks his face, looks at mirror with determination",
       "framing": "Medium shot facing the mirror",
       "camera_movement": "Smooth tracking of Pomeranian",
-      "dialogue": "Small motivational barks",
-      "narrator_script": "He had been waiting for this moment his whole life.",
-      "location_ref": "BEDROOM-REF"
+      "sfx": ["Small motivational barks"],
+      "dialogue": [],
+      "narrator_script": "He had been waiting for this moment his whole life."
     },
     {
       "id": 4,
@@ -73,8 +73,8 @@
       "framing": "Detail shot of grooming, lots of movement",
       "camera_movement": "Quick cuts, dynamic",
       "sfx": ["Brushing sounds"],
-      "narrator_script": "He had to look impeccable for his first day.",
-      "location_ref": "BEDROOM-REF"
+      "dialogue": [],
+      "narrator_script": "He had to look impeccable for his first day."
     },
     {
       "id": 5,
@@ -84,8 +84,8 @@
       "framing": "Wide shot of kitchen, small Pomeranian in big chair",
       "camera_movement": "Smooth pan, camera from the side",
       "sfx": ["Small footsteps sounds"],
-      "narrator_script": "First, breakfast. A police officer needs energy.",
-      "location_ref": "KITCHEN-REF"
+      "dialogue": [],
+      "narrator_script": "First, breakfast. A police officer needs energy."
     },
     {
       "id": 6,
@@ -95,8 +95,8 @@
       "framing": "Top shot of the bowl, Pomeranian eating",
       "camera_movement": "Static",
       "sfx": ["Eating sounds", "Licking"],
-      "narrator_script": "And lots of determination.",
-      "location_ref": "KITCHEN-REF"
+      "dialogue": [],
+      "narrator_script": "And lots of determination."
     },
     {
       "id": 7,
@@ -105,9 +105,9 @@
       "description": "Pomeranian puts on his first police uniform (a small badge)",
       "framing": "Medium shot, Pomeranian looking at camera with pride",
       "camera_movement": "Slow 360 rotation, fashion show",
-      "dialogue": "Proud barks",
-      "narrator_script": "The uniform. The badge of honor.",
-      "location_ref": "BEDROOM-REF"
+      "sfx": ["Proud barks"],
+      "dialogue": [],
+      "narrator_script": "The uniform. The badge of honor."
     },
     {
       "id": 8,
@@ -117,8 +117,8 @@
       "framing": "Wide shot, small Pomeranian exiting through huge door",
       "camera_movement": "Dolly out, exits through door",
       "sfx": ["Door opening"],
-      "narrator_script": "On the way to the police station.",
-      "location_ref": "BEDROOM-REF"
+      "dialogue": [],
+      "narrator_script": "On the way to the police station."
     },
     {
       "id": 9,
@@ -128,8 +128,8 @@
       "framing": "Side tracking, level shot",
       "camera_movement": "Tracking shot, keeps pace with Pomeranian",
       "sfx": ["Steps", "Street sounds"],
-      "narrator_script": "Each step brought him closer to his destination.",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "Each step brought him closer to his destination."
     },
     {
       "id": 10,
@@ -138,9 +138,9 @@
       "description": "Pomeranian arrives at police station, big building, looks up amazed",
       "framing": "Low angle, Pomeranian looking at building ceiling",
       "camera_movement": "Dramatic tilt up",
-      "dialogue": "Amazed bark",
-      "narrator_script": "Finally. The police station.",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "sfx": ["Amazed bark"],
+      "dialogue": [],
+      "narrator_script": "Finally. The police station."
     },
     {
       "id": 11,
@@ -150,8 +150,8 @@
       "framing": "Wide shot interior, police station",
       "camera_movement": "Dolly in through doors",
       "sfx": ["Doors opening", "Station sounds"],
-      "narrator_script": "Time to work.",
-      "location_ref": "POLICE-STATION-INTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "Time to work."
     },
     {
       "id": 12,
@@ -161,8 +161,8 @@
       "framing": "Medium shot, quick wardrobe montage",
       "camera_movement": "Quick cuts, high energy",
       "sfx": ["Wardrobe sounds", "Zippers"],
-      "narrator_script": "Transformed. Officer Max was ready.",
-      "location_ref": "POLICE-STATION-INTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "Transformed. Officer Max was ready."
     },
     {
       "id": 13,
@@ -172,8 +172,8 @@
       "framing": "Wide shot, Pomeranian on street, buildings in background",
       "camera_movement": "Tracking shot, low angle camera",
       "sfx": ["Action music", "Steps"],
-      "narrator_script": "First: surveillance. Max was prepared for anything.",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "First: surveillance. Max was prepared for anything."
     },
     {
       "id": 14,
@@ -182,9 +182,9 @@
       "description": "Pomeranian examines a 'crime' (a knocked over trash can), intense detective",
       "framing": "Close-up of Pomeranian sniffing, trash in background",
       "camera_movement": "Circling shot",
-      "dialogue": "Investigative barks",
-      "narrator_script": "Crime scene analysis. Nothing would escape his eagle eye.",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "sfx": ["Investigative barks"],
+      "dialogue": [],
+      "narrator_script": "Crime scene analysis. Nothing would escape his eagle eye."
     },
     {
       "id": 15,
@@ -194,8 +194,8 @@
       "framing": "Medium shot, Pomeranian positions in running stance",
       "camera_movement": "Quick snap, angle change",
       "sfx": ["Suspense sound"],
-      "narrator_script": "Wait. What was that?",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "Wait. What was that?"
     },
     {
       "id": 16,
@@ -205,8 +205,8 @@
       "framing": "Camera behind Pomeranian, dynamic movement",
       "camera_movement": "Fast tracking shot, high energy",
       "sfx": ["Action music", "Effort barks"],
-      "narrator_script": "The chase is on!",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "The chase is on!"
     },
     {
       "id": 17,
@@ -216,8 +216,8 @@
       "framing": "Side angle, captures jump at its peak",
       "camera_movement": "Slow motion, captures action",
       "sfx": ["Epic music", "Jump effect"],
-      "narrator_script": "Nothing would stop him.",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "Nothing would stop him."
     },
     {
       "id": 18,
@@ -226,9 +226,9 @@
       "description": "Pomeranian catches the 'suspect', 'arrests' it (it's a stuffed toy or something harmless)",
       "framing": "Medium shot, Pomeranian over his prey",
       "camera_movement": "Static, victory moment",
-      "dialogue": "Victory barks",
-      "narrator_script": "Crime solved!",
-      "location_ref": "POLICE-STATION-EXTERIOR-REF"
+      "sfx": ["Victory barks"],
+      "dialogue": [],
+      "narrator_script": "Crime solved!"
     },
     {
       "id": 19,
@@ -238,8 +238,8 @@
       "framing": "Wide shot, exhausted Pomeranian entering",
       "camera_movement": "Slow pan, somber tone",
       "sfx": ["Heavy breathing", "Light ambient sound"],
-      "narrator_script": "Duty fulfilled. But the exhaustion... was real.",
-      "location_ref": "POLICE-STATION-INTERIOR-REF"
+      "dialogue": [],
+      "narrator_script": "Duty fulfilled. But the exhaustion... was real."
     },
     {
       "id": 20,
@@ -248,9 +248,9 @@
       "description": "Pomeranian collapses in chair, completely exhausted, tongue out",
       "framing": "Close-up of exhausted face",
       "camera_movement": "Slow zoom in",
-      "dialogue": "Tired panting",
-      "narrator_script": "A long day. Very long.",
-      "location_ref": "POLICE-STATION-INTERIOR-REF"
+      "sfx": ["Tired panting"],
+      "dialogue": [],
+      "narrator_script": "A long day. Very long."
     },
     {
       "id": 21,
@@ -260,8 +260,8 @@
       "framing": "Quick cuts from different angles",
       "camera_movement": "Dynamic cuts",
       "sfx": ["Musical montage"],
-      "narrator_script": "At home. Finally.",
-      "location_ref": "BEDROOM-REF"
+      "dialogue": [],
+      "narrator_script": "At home. Finally."
     },
     {
       "id": 22,
@@ -271,8 +271,8 @@
       "framing": "Side shot in bathtub, steam around",
       "camera_movement": "Peaceful pan",
       "sfx": ["Water sounds", "Relaxing music"],
-      "narrator_script": "A bath to wash away the day.",
-      "location_ref": "BEDROOM-REF"
+      "dialogue": [],
+      "narrator_script": "A bath to wash away the day."
     },
     {
       "id": 23,
@@ -282,8 +282,8 @@
       "framing": "Wide shot of room, Pomeranian walking slowly",
       "camera_movement": "Smooth tracking",
       "sfx": ["Closing music", "Soft sounds"],
-      "narrator_script": "Tomorrow would be another day...",
-      "location_ref": "BEDROOM-REF"
+      "dialogue": [],
+      "narrator_script": "Tomorrow would be another day..."
     },
     {
       "id": 24,
@@ -292,9 +292,9 @@
       "description": "Pomeranian lies in his bed, turns around, is deeply asleep",
       "framing": "Close-up of face, sleeping peacefully, return to beginning",
       "camera_movement": "Slow zoom out",
-      "dialogue": "Small snores",
-      "narrator_script": "But for now, he rested with the satisfaction of a job well done. Max's dream... was reality.",
-      "location_ref": "BEDROOM-REF"
+      "sfx": ["Small snores"],
+      "dialogue": [],
+      "narrator_script": "But for now, he rested with the satisfaction of a job well done. Max's dream... was reality."
     }
   ]
 }
