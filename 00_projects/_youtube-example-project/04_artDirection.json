@@ -1,0 +1,251 @@
+{
+  "art_direction": {
+    "visual_style": {
+      "overall_aesthetic": "Modern 3D CGI with Pixar-quality polish",
+      "cinematography": "Professional cinematic with dramatic lighting and shallow depth of field",
+      "color_grading": "Warm tones for Act 1, transitioning to cooler institutional blues for Acts 2-4",
+      "mood": "Adorable but epic, cute but serious, funny but heartwarming",
+      "camera_techniques": [
+        "Shallow depth of field for emotional close-ups",
+        "Low angles to emphasize scale (Max looking up at big objects)",
+        "Tracking shots for movement and action",
+        "Slow zooms for emotional impact",
+        "Wide shots for establishing locations"
+      ],
+      "lighting_approach": [
+        "3-point lighting for professional look",
+        "Warm colors for intimate scenes",
+        "Cool colors for institutional scenes",
+        "Dramatic shadows for action sequences",
+        "Soft lighting for emotional moments"
+      ]
+    }
+  },
+  "characters": {
+    "mainCharacters": [
+      {
+        "id": "max",
+        "name": "Max",
+        "species": "Pomeranian",
+        "characteristics": {
+          "fur": "Fluffy white with soft shadows and highlights",
+          "eyes": "Large, expressive, dark eyes showing emotion",
+          "personality": "Determined, adorable, brave, optimistic",
+          "size_reference": "Tiny compared to human-scale objects"
+        },
+        "outfits": [
+          {
+            "id": "pajamas",
+            "name": "Pajamas",
+            "description": "Soft pink pajamas with small white details",
+            "reference_image_id": "POMERANIAN-PAJAMAS-REF",
+            "reference_url": "https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-26.png",
+            "used_in_acts": [1],
+            "mood": "Sleepy turning to determined"
+          },
+          {
+            "id": "police_uniform",
+            "name": "Police Uniform",
+            "description": "Police uniform with badge, hat, all fitted for small size",
+            "accessories": ["Police badge", "Patrol hat"],
+            "reference_image_id": "POMERANIAN-POLICE-REF",
+            "reference_url": "https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-31.jpeg",
+            "used_in_acts": [2, 3, 4],
+            "mood": "Professional, brave, heroic"
+          }
+        ]
+      }
+    ]
+  },
+  "locations": [
+    {
+      "id": "BEDROOM-REF",
+      "name": "Bedroom",
+      "description": "Cozy, intimate space designed for a small dog",
+      "visual_elements": [
+        "Small cozy bed with soft pillows",
+        "Warm lighting from bedside lamp and window",
+        "Simple, clean interior design",
+        "Wooden floor with soft rug"
+      ],
+      "mood": "Intimate, safe, personal",
+      "ftp_url": "https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-18-50.jpeg"
+    },
+    {
+      "id": "KITCHEN-REF",
+      "name": "Kitchen",
+      "description": "Modern minimalist kitchen with scale contrast",
+      "visual_elements": [
+        "Large kitchen furniture and appliances (scale contrast)",
+        "Clean countertops and modern design",
+        "Large table with tiny chair for Max",
+        "Food bowl on table"
+      ],
+      "mood": "Professional, modern, scale-contrasted",
+      "ftp_url": "https://lemonsushi.com/uploads/tataraVideo/files/2026-01-11_15-17-35.jpeg"
+    },
+    {
+      "id": "POLICE-STATION-EXTERIOR-REF",
+      "name": "Police Station - Exterior",
+      "description": "Large imposing government building",
+      "visual_elements": [
+        "Multi-story police building",
+        "Architectural columns and official design",
+        "Large entrance doors",
+        "Scale contrast emphasizing Max's size"
+      ],
+      "mood": "Imposing, impressive, intimidating yet aspirational",
+      "ftp_url": "https://lemonsushi.com/uploads/tataraVideo/files/[pending]"
+    },
+    {
+      "id": "POLICE-STATION-INTERIOR-REF",
+      "name": "Police Station - Interior",
+      "description": "Professional institutional interior",
+      "visual_elements": [
+        "Police desks and filing systems",
+        "Institutional furniture scaled for human size",
+        "Professional interior design",
+        "Fluorescent lighting"
+      ],
+      "mood": "Professional, institutional, authoritative",
+      "ftp_url": "https://lemonsushi.com/uploads/tataraVideo/files/[pending]"
+    }
+  ],
+  "color_palette": {
+    "act_1_awakening": {
+      "name": "Warm and Cozy",
+      "primary_colors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#f5e6d3",
+          "usage": "Bedroom walls, warm backgrounds"
+        },
+        {
+          "name": "Soft Pink",
+          "hex": "#ffb6c1",
+          "usage": "Pajamas, warm accents"
+        },
+        {
+          "name": "Golden Yellow",
+          "hex": "#ffd700",
+          "usage": "Lighting highlights, warm glow"
+        }
+      ],
+      "secondary_colors": [
+        {
+          "name": "Pure White",
+          "hex": "#ffffff",
+          "usage": "Bedding, fur highlights"
+        },
+        {
+          "name": "Soft Brown",
+          "hex": "#d4a574",
+          "usage": "Floor, furniture shadows"
+        }
+      ]
+    },
+    "act_2_journey": {
+      "name": "Transitional - Urban",
+      "primary_colors": [
+        {
+          "name": "Dark Blue",
+          "hex": "#0a1428",
+          "usage": "Police uniform, institutional buildings"
+        },
+        {
+          "name": "Gold Badge",
+          "hex": "#d4af37",
+          "usage": "Police badge, authority symbols"
+        },
+        {
+          "name": "Professional Gray",
+          "hex": "#808080",
+          "usage": "Street, buildings"
+        }
+      ],
+      "secondary_colors": [
+        {
+          "name": "Sky Blue",
+          "hex": "#87ceeb",
+          "usage": "Street scenes, sky"
+        },
+        {
+          "name": "White",
+          "hex": "#ffffff",
+          "usage": "Architectural details"
+        }
+      ]
+    },
+    "act_3_action": {
+      "name": "Institutional and Action",
+      "primary_colors": [
+        {
+          "name": "Dark Blue",
+          "hex": "#0a1428",
+          "usage": "Police station interior, uniform"
+        },
+        {
+          "name": "Professional Gray",
+          "hex": "#808080",
+          "usage": "Desks, walls, institutional"
+        },
+        {
+          "name": "Gold Badge",
+          "hex": "#d4af37",
+          "usage": "Badges, authority, prestige"
+        }
+      ],
+      "secondary_colors": [
+        {
+          "name": "Fluorescent White",
+          "hex": "#f8f8ff",
+          "usage": "Interior lighting"
+        },
+        {
+          "name": "Crime Scene Red",
+          "hex": "#dc143c",
+          "usage": "Action highlights (minimal use)"
+        }
+      ]
+    },
+    "act_4_return": {
+      "name": "Satisfied Return",
+      "primary_colors": [
+        {
+          "name": "Warm Gold",
+          "hex": "#daa520",
+          "usage": "Success, achievement glow"
+        },
+        {
+          "name": "Soft Orange",
+          "hex": "#ffa500",
+          "usage": "Sunset, relaxation"
+        },
+        {
+          "name": "Dark Blue",
+          "hex": "#0a1428",
+          "usage": "Uniform, contrast"
+        }
+      ],
+      "secondary_colors": [
+        {
+          "name": "Warm Beige",
+          "hex": "#f5e6d3",
+          "usage": "Home, comfort"
+        }
+      ]
+    }
+  },
+  "technical_notes": {
+    "render_quality": "Pixar-level photorealism",
+    "texture_detail": "High resolution with fine fur detail",
+    "animation_smoothness": "24 FPS, fluid motion",
+    "post_production": "Color grading, effects, slight motion blur on movement",
+    "visual_hierarchy": [
+      "Max is always the focal point",
+      "Supporting elements fade into background",
+      "Color contrast draws attention",
+      "Movement catches eye in static scenes"
+    ]
+  }
+}

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b8fc776faa9ba8",
+        "id": "1bedea62ae99e405",
         "type": "tabs",
         "children": [
           {
-            "id": "f2dfb5ffbbea55cc",
+            "id": "27b78460fb0fd529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "json",
               "state": {
-                "file": "00_projects/_youtube-example-project/09_ShotVideos.md",
-                "mode": "source",
-                "source": false
+                "file": "00_projects/_youtube-example-project/06_shots.json"
               },
               "icon": "lucide-file",
-              "title": "09_ShotVideos"
+              "title": "06_shots"
             }
           }
         ]
@@ -183,41 +181,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "f2dfb5ffbbea55cc",
+  "active": "27b78460fb0fd529",
   "lastOpenFiles": [
-    "00_projects/_youtube-example-project/08_ShotImages.md",
-    "00_projects/_youtube-example-project/07_Youtube.md",
-    "00_projects/_youtube-example-project/06_Music.md",
-    "00_projects/_youtube-example-project/05_Prompts.md",
-    "00_projects/_youtube-example-project/04_Script.md",
-    "00_projects/_youtube-example-project/03_Shot-ideas.md",
+    "00_projects/_youtube-example-project/03_settings.json",
+    "00_projects/_youtube-example-project/04_artDirection.json.tmp.14264.1768654162167",
+    "00_projects/_youtube-example-project/04_artDirection.json",
+    "00_projects/_youtube-example-project/05_script.json",
+    "00_projects/_youtube-example-project/06_shots.json",
+    "00_projects/_youtube-example-project/07_music.json",
+    "00_projects/_youtube-example-project/08_youtube.json",
+    "00_projects/_youtube-example-project/script.json",
+    "00_projects/_youtube-example-project/settings.json",
+    "00_projects/_youtube-example-project/02_shotIdeas.md",
+    "00_projects/_youtube-example-project/01_concept.md",
+    "00_projects/_youtube-example-project/concept.md",
+    "00_projects/_youtube-example-project/shotIdeas.md",
+    "00_projects/_youtube-example-project/shots.json",
+    "00_projects/_youtube-example-project/music.json",
     "00_projects/_youtube-example-project/02_Art-Direction.md",
     "00_projects/_youtube-example-project/01_Concept.md",
     "00_projects/_youtube-example-project/00_Settings-Status.md",
-    "00_projects/_youtube-example-project/09_ShotVideos.md",
-    "START HERE.md",
+    "00_projects/_youtube-example-project/07_Youtube.md",
+    "00_projects/_youtube-example-project/04_Script.md",
+    "00_projects/_youtube-example-project/05_Prompts.md",
+    "00_projects/_youtube-example-project/03_Shot-ideas.md",
+    "01_guides/Cinematography.md",
+    "00_projects/_youtube-example-project/metadata/art_direction_metadata.md",
     "00_projects/_youtube-example-project/metadata/central_references.md",
+    "00_projects/_youtube-example-project/09_ShotVideos.md",
+    "00_projects/_youtube-example-project/08_ShotMetadata.md",
+    "00_projects/_youtube-example-project/08_ShotImages.md",
+    "00_projects/_youtube-example-project/06_Music.md",
+    "START HERE.md",
     "01_guides/Tiktok Shop.md",
     "01_guides/Family and Kids show.md",
     "01_guides/Youtube.md",
     "01_guides/Storytelling.md",
     "01_guides/Commercials.md",
-    "01_guides/Cinematography.md",
-    "02_templates/04-Prompt.md",
-    "02_templates/01-Script.md",
-    "02_templates/05-Feedback.md",
-    "00_projects/_youtube-example-project/metadata/videos_metadata.md",
-    "00_projects/_youtube-example-project/metadata/prompts_metadata.md",
-    "00_projects/_youtube-example-project/metadata/images_metadata.md",
-    "00_projects/_youtube-example-project/metadata/art_direction_metadata.md",
-    "00_projects/_youtube-example-project/02_Direccion-Arte.md",
-    "00_projects/_youtube-example-project/metadata",
-    "z_guides",
-    "projects/NuevoProyecto",
-    "README.md.tmp.21248.1767966929121",
-    "README.md.tmp.21248.1767966916480",
-    "README.md.tmp.21248.1767966904462",
-    "README.md.tmp.21248.1767966821764",
-    "README.md.tmp.21248.1767966800938"
+    "02_templates/04-Prompt.md"
   ]
 }

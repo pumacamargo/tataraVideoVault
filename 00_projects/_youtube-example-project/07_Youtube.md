@@ -1,4 +1,0 @@
-- **Title:** Insert Title
-- **Description:** Insert Description
-- **Thumbnail:** Insert Thumbnail prompt
-- **Tags:** Insert Tags

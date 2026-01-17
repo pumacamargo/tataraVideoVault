@@ -1,0 +1,138 @@
+{
+  "youtube": {
+    "project": "Pomeranian tries to be a Police",
+    "platform": "YouTube"
+  },
+  "video_metadata": {
+    "title": "A Pomeranian's Big Dream - Becoming a Police Officer",
+    "subtitle": "Max's Epic Adventure",
+    "duration": "2:00",
+    "resolution": "1920x1080",
+    "format": "16:9",
+    "fps": 24,
+    "status": "in_production"
+  },
+  "seo": {
+    "description": "Follow Max, an adorable tiny Pomeranian with an enormous dream: to become a police officer. Watch as this brave little pup goes through a hilarious and heartwarming journey of preparation, duty, and determination. A cinematic animated comedy about following your dreams, no matter how impossible they seem. Perfect for animal lovers and anyone who needs a little inspiration today.",
+    "keywords": [
+      "pomeranian",
+      "police officer",
+      "cute dogs",
+      "animated short",
+      "funny animals",
+      "heartwarming",
+      "dreams",
+      "inspiration",
+      "animation",
+      "CGI",
+      "cute",
+      "epic",
+      "family friendly"
+    ],
+    "long_description": "In this delightful 2-minute animated short, we follow Max - a fluffy white Pomeranian with a dream bigger than himself.\n\nMax wakes up one morning determined to follow his passion: becoming a police officer. Despite his tiny size, he goes through the whole journey - from waking up and preparing himself, to putting on his uniform and heading to the police station, where he tackles real police work with all his heart.\n\nWith epic action sequences, hilarious moments, and a heartwarming conclusion, this video celebrates the spirit of never giving up, no matter how small you are.\n\nPerfect for:\n✓ Dog lovers\n✓ Animation enthusiasts\n✓ Families\n✓ Anyone needing inspiration\n✓ Comedy fans\n\nThis is an original animated short featuring Max the Pomeranian in a thrilling adventure.\n\n#AnimatedShort #CuteAnimals #Pomeranian #AnimationStudio"
+  },
+  "channel_optimization": {
+    "playlist": "Animated Shorts",
+    "category": "Film & Animation",
+    "language": "English",
+    "country": "Worldwide",
+    "audience": "Family-friendly - All ages",
+    "license": "Creative Commons Attribution (reuse allowed)"
+  },
+  "thumbnail": {
+    "style": "Bright, eye-catching, features Max the Pomeranian in police uniform",
+    "title_text": "Max's Big Dream",
+    "subtitle_text": "Pomeranian Police Officer",
+    "color_scheme": "Dark blue (police), soft pink (Max), gold accents (badge)",
+    "specifications": {
+      "resolution": "1280x720",
+      "format": "PNG or JPG",
+      "aspect_ratio": "16:9",
+      "file_size": "2MB max"
+    },
+    "elements": [
+      "Close-up of Max's adorable face in police uniform",
+      "Police badge visible",
+      "Proud/determined expression",
+      "High contrast, vibrant colors",
+      "Clear, readable text",
+      "Emoji usage (optional): 🐕‍🦺👮‍♂️⭐"
+    ],
+    "status": "pending_design"
+  },
+  "hashtags": [
+    "#AnimatedShort",
+    "#CuteAnimals",
+    "#Pomeranian",
+    "#AnimationStudio",
+    "#FamilyFriendly",
+    "#Shorts",
+    "#OriginalAnimation",
+    "#DreamBig",
+    "#PoliceOfficer",
+    "#HeartwarmingStory"
+  ],
+  "release_strategy": {
+    "premiere_type": "Standard upload",
+    "release_date": "TBD",
+    "premiere_time": "TBD",
+    "upload_quality": "1440p (4K if rendering allows)",
+    "end_screens": [
+      {
+        "type": "Video",
+        "description": "Link to next animated short"
+      },
+      {
+        "type": "Subscribe",
+        "description": "Subscribe to channel button"
+      }
+    ],
+    "cards": [
+      {
+        "type": "Video",
+        "position": "At 0:30",
+        "description": "Subscribe for more adorable content"
+      }
+    ]
+  },
+  "marketing": {
+    "target_audience": {
+      "primary": "Family audiences, dog lovers, animation enthusiasts",
+      "age_range": "All ages, best for 6+",
+      "interests": [
+        "Animals",
+        "Animation",
+        "Comedy",
+        "Inspirational stories",
+        "Cute content"
+      ]
+    },
+    "cross_platform_promotion": {
+      "instagram": "Share short clips and behind-the-scenes",
+      "tiktok": "30-60 second clips from video",
+      "twitter": "Announcement and highlights",
+      "facebook": "Full video and engagement posts"
+    },
+    "collaborations": "Consider reaching out to dog/pet content creators"
+  },
+  "performance_goals": {
+    "target_views": "100K+ in first month",
+    "target_likes": "5K+",
+    "target_comments": "500+",
+    "target_subscribers": "1K+ new subscribers",
+    "target_shares": "200+ shares across platforms",
+    "success_metrics": [
+      "High click-through rate on thumbnail",
+      "Watch time retention above 70%",
+      "Positive comment sentiment",
+      "Share growth and viral potential"
+    ]
+  },
+  "credits": {
+    "animation": "AI-generated (Google Nano Banana Edit, ByteDance Seedance V1)",
+    "music": "Original orchestral composition (TBD)",
+    "narration": "Voice talent (TBD)",
+    "concept": "Original concept",
+    "production": "Tatara Video Studio"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "music": {
+    "project": "Pomeranian tries to be a Police",
+    "total_duration_seconds": 120
+  },
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Main Theme - Inspirational",
+      "description": "Orchestral theme that plays throughout the video",
+      "duration_seconds": 120,
+      "mood": "Inspirational, epic, adorable, determined",
+      "instruments": [
+        "Orchestral strings",
+        "French horns",
+        "Timpani",
+        "Soft woodwinds",
+        "Harp accents"
+      ],
+      "bpm": 100,
+      "key": "G Major",
+      "intensity": "Medium to High",
+      "usage_acts": [1, 2, 3, 4],
+      "prompt": "Create an inspirational orchestral soundtrack for a 2-minute animated video about a small Pomeranian with a big dream to become a police officer. The music should start soft and cozy (Act 1), build up with determination (Act 2), become epic and action-packed (Act 3), and finally transition to a peaceful, satisfied conclusion (Act 4). Mix adorable cute elements with heroic, epic orchestration. Include dramatic crescendos for action sequences. Total duration: 120 seconds.",
+      "status": "pending",
+      "generated_url": null,
+      "generated_timestamp": null
+    },
+    {
+      "id": 2,
+      "name": "Action Sequence Music",
+      "description": "High-energy music for the chase and action sequences (Act 3)",
+      "duration_seconds": 30,
+      "mood": "Epic, action-packed, heroic",
+      "instruments": [
+        "Orchestral strings with strong bow attacks",
+        "Brass section",
+        "Timpani rolls",
+        "Cymbals crashes",
+        "Strong percussion"
+      ],
+      "bpm": 140,
+      "key": "D Minor",
+      "intensity": "Very High",
+      "usage_acts": [3],
+      "prompt": "Create intense, epic action music for a 30-second chase sequence. A tiny Pomeranian police officer is chasing a 'criminal'. The music should be heroic and dramatic, with strong brass and strings, building tension. Include dramatic crescendos and stabs. Should feel cinematic and action-movie-like while still maintaining adorable charm.",
+      "status": "pending",
+      "generated_url": null,
+      "generated_timestamp": null
+    },
+    {
+      "id": 3,
+      "name": "Peaceful Conclusion",
+      "description": "Soft, relaxing music for the ending sequence (Act 4)",
+      "duration_seconds": 30,
+      "mood": "Peaceful, satisfied, relaxing, hopeful",
+      "instruments": [
+        "Soft strings",
+        "Piano",
+        "Harp",
+        "Light woodwinds",
+        "Soft pads"
+      ],
+      "bpm": 60,
+      "key": "C Major",
+      "intensity": "Low",
+      "usage_acts": [4],
+      "prompt": "Create soft, peaceful closing music for a 30-second ending sequence. A tiny exhausted Pomeranian police officer comes home, takes a bath, and goes to sleep, satisfied with his day. The music should be relaxing, warm, and hopeful. Include soft piano, strings, and ambient elements. Should evoke feelings of accomplishment and peace.",
+      "status": "pending",
+      "generated_url": null,
+      "generated_timestamp": null
+    }
+  ],
+  "sound_design": {
+    "sfx_library": [
+      {
+        "id": "snoring",
+        "description": "Soft snoring sound",
+        "usage": "Shot 1"
+      },
+      {
+        "id": "alarm_clock",
+        "description": "Alarm clock ringing sound",
+        "usage": "Shot 2"
+      },
+      {
+        "id": "startle_sound",
+        "description": "Startle/surprised sound",
+        "usage": "Shot 2"
+      },
+      {
+        "id": "brushing_sounds",
+        "description": "Grooming brush sounds",
+        "usage": "Shot 4"
+      },
+      {
+        "id": "footsteps",
+        "description": "Small footsteps sound",
+        "usage": "Shot 5"
+      },
+      {
+        "id": "eating_sounds",
+        "description": "Eating and licking sounds",
+        "usage": "Shot 6"
+      },
+      {
+        "id": "door_opening",
+        "description": "House door opening",
+        "usage": "Shot 8"
+      },
+      {
+        "id": "street_sounds",
+        "description": "Urban street ambient sounds",
+        "usage": "Shot 9"
+      },
+      {
+        "id": "station_doors",
+        "description": "Automatic doors opening",
+        "usage": "Shot 11"
+      },
+      {
+        "id": "wardrobe_sounds",
+        "description": "Clothing and zipper sounds",
+        "usage": "Shot 12"
+      },
+      {
+        "id": "action_music",
+        "description": "Action sequence music cues",
+        "usage": "Shots 13-18"
+      },
+      {
+        "id": "barks",
+        "description": "Various dog barks (proud, investigative, victory, tired)",
+        "usage": "Multiple shots"
+      },
+      {
+        "id": "heavy_breathing",
+        "description": "Exhausted heavy breathing",
+        "usage": "Shot 19"
+      },
+      {
+        "id": "water_sounds",
+        "description": "Bath water sounds and splashes",
+        "usage": "Shot 22"
+      }
+    ]
+  },
+  "narration": {
+    "narrator_style": "Warm, engaging, inspirational male voice",
+    "tone": "Storytelling, uplifting, humorous",
+    "language": "English",
+    "voice_recording_status": "pending",
+    "scripts": [
+      {
+        "shot_id": 1,
+        "text": "Meet Max, a small Pomeranian with a very big dream..."
+      },
+      {
+        "shot_id": 2,
+        "text": "Today would be different. Today he would be... a police officer."
+      },
+      {
+        "shot_id": 3,
+        "text": "He had been waiting for this moment his whole life."
+      },
+      {
+        "shot_id": 4,
+        "text": "He had to look impeccable for his first day."
+      },
+      {
+        "shot_id": 5,
+        "text": "First, breakfast. A police officer needs energy."
+      },
+      {
+        "shot_id": 6,
+        "text": "And lots of determination."
+      },
+      {
+        "shot_id": 7,
+        "text": "The uniform. The badge of honor."
+      },
+      {
+        "shot_id": 8,
+        "text": "On the way to the police station."
+      },
+      {
+        "shot_id": 9,
+        "text": "Each step brought him closer to his destination."
+      },
+      {
+        "shot_id": 10,
+        "text": "Finally. The police station."
+      },
+      {
+        "shot_id": 11,
+        "text": "Time to work."
+      },
+      {
+        "shot_id": 12,
+        "text": "Transformed. Officer Max was ready."
+      },
+      {
+        "shot_id": 13,
+        "text": "First: surveillance. Max was prepared for anything."
+      },
+      {
+        "shot_id": 14,
+        "text": "Crime scene analysis. Nothing would escape his eagle eye."
+      },
+      {
+        "shot_id": 15,
+        "text": "Wait. What was that?"
+      },
+      {
+        "shot_id": 16,
+        "text": "The chase is on!"
+      },
+      {
+        "shot_id": 17,
+        "text": "Nothing would stop him."
+      },
+      {
+        "shot_id": 18,
+        "text": "Crime solved!"
+      },
+      {
+        "shot_id": 19,
+        "text": "Duty fulfilled. But the exhaustion... was real."
+      },
+      {
+        "shot_id": 20,
+        "text": "A long day. Very long."
+      },
+      {
+        "shot_id": 21,
+        "text": "At home. Finally."
+      },
+      {
+        "shot_id": 22,
+        "text": "A bath to wash away the day."
+      },
+      {
+        "shot_id": 23,
+        "text": "Tomorrow would be another day..."
+      },
+      {
+        "shot_id": 24,
+        "text": "But for now, he rested with the satisfaction of a job well done. Max's dream... was reality."
+      }
+    ]
+  }
+}
